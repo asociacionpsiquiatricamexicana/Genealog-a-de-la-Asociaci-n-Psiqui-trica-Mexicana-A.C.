@@ -1,0 +1,83 @@
+══════════════════════════════════════════════════════════════════════════════
+ RAPM · Revista de la Asociación Psiquiátrica Mexicana, A.C.
+ Volumen 6, Número 1 · Enero-Abril 2026
+ PAQUETE EDITORIAL · MANIFEST.txt (pipeline v16 post multi-dim diagnostic)
+══════════════════════════════════════════════════════════════════════════════
+
+ Generado:          2026-04-19 20:50:12
+ Editor en Jefe:    Dr. David Eduardo Saucedo-Martínez
+ Editor Adjunto:    Dr. José Carlos Medina-Rodríguez
+ Contacto:          revistaapm@psiquiatrasapm.org.mx
+ Licencia:          CC BY-NC 4.0   ·   e-ISSN: 3061-7979
+ Build:             pipeline_rapm_v6n1.py (5-phase consolidated)
+ Sources:           rapm-editorial.cls + 3 .tex + 5 .py (con __all__)
+ Accessibility:     /Lang=es-MX en 4 PDFs · alt text imágenes · XMP 21 keys
+
+──────────────────────────────────────────────────────────────────────────────
+ CONTENIDO DEL PAQUETE
+──────────────────────────────────────────────────────────────────────────────
+
+ RAPM_VOL6_NO1_Completo_2026.pdf
+   Páginas:  34  ·  /Lang: es-MX  ·  XMP keys: 23
+   Tamaño:   4,643,587 bytes (3778 KB)
+   MD5:      bf31be1aea1d17ea2a08ec03761189bc
+   SHA-256:  05d1554d60dc1fab93af124efa0a31c80e45b5f180dbf5e9a741a8e9f41b55e6
+
+ Informe_Cierre_Editorial_V6N1.pdf
+   Páginas:  4  ·  /Lang: not-set  ·  XMP keys: 0
+   Tamaño:   117,178 bytes (114 KB)
+   MD5:      bab293c8141ac456b9a20c6b05021fc9
+   SHA-256:  5ef69544933b94b38283eef99991948d25b16c035875668e58652486a62bed90
+
+ RAPM_V6N1_ART1_ElHorizonte.pdf
+   Páginas:  3  ·  /Lang: not-set  ·  XMP keys: 17
+   Tamaño:   305,956 bytes (299 KB)
+   MD5:      1d890b375e309f5397dc748632bc5eb6
+   SHA-256:  b050d65c7ef9e1e0ab4ce4f0d4cbd7e0b460bb6046e2269ffedd5489bd422e5d
+
+ RAPM_V6N1_ART2_PsiquiatriaPerinatal.pdf
+   Páginas:  3  ·  /Lang: not-set  ·  XMP keys: 17
+   Tamaño:   314,670 bytes (307 KB)
+   MD5:      b7bbf78f0cc40aa9429e4b3956514e74
+   SHA-256:  df231925e1de9c78df886203fe99e3a65bde47d4aed0f36d569bc71e1a75141d
+
+ RAPM_V6N1_ART3_Recomendaciones.pdf
+   Páginas:  7  ·  /Lang: not-set  ·  XMP keys: 17
+   Tamaño:   1,683,403 bytes (957 KB)
+   MD5:      298f154662c167ed379eb29a8448a540
+   SHA-256:  46d7c3ed0d0733f686365c06689318f7009e78c52a7c16b1294bfe4f11131c7e
+
+ RAPM_V6N1_ART4_CapacitacionMental.pdf
+   Páginas:  5  ·  /Lang: not-set  ·  XMP keys: 17
+   Tamaño:   913,633 bytes (604 KB)
+   MD5:      b44969e93bfc1bb36b30cad1ed19d1bf
+   SHA-256:  3e29703762d149aed665705f193b58d479a751bd3369f649736011d6daa0f087
+
+ RAPM_V6N1_ART5_InventoryICU.pdf
+   Páginas:  7  ·  /Lang: not-set  ·  XMP keys: 17
+   Tamaño:   980,061 bytes (957 KB)
+   MD5:      3e5853ca31e1f3189901f23e45f3aa6e
+   SHA-256:  d05d1f4ce40cf7ed23aa78e425089283f5270f78720fb3c395bb836cda7c7793
+
+──────────────────────────────────────────────────────────────────────────────
+ RESUMEN: 7 archivos · 6.85 MB total
+──────────────────────────────────────────────────────────────────────────────
+
+ POST-DIAGNOSTIC REFINEMENTS
+ ───────────────────────────
+   · 5 módulos Python con __all__ explícito (94 nombres exportados)
+   · qa_validate.py con type hints + docstrings en Check class
+   · 3 imports unused removidos (Path, FOOTER_LEFT, HLINE_GRAY,
+     PAGE_CENTER_X, FONT_HELV_B, FA_HELV_B)
+   · XMP metadata añadida a Portada/Contraportada/Informe (0→21 keys)
+   · Unicode accents normalizados a tex-escape en rapm-editorial.cls
+   · Asset renamed: hash.jpeg → apm_logotype_source.jpeg
+
+ CONFORMIDAD EDITORIAL
+ ─────────────────────
+   APA 7 · ICMJE 2024 · CRediT · EQUATOR · COPE 2025 ·
+   WCAG 2.1 AA · CC BY-NC 4.0 · Double-blind peer review
+
+══════════════════════════════════════════════════════════════════════════════
+ Asociación Psiquiátrica Mexicana, A.C. · © 2026
+══════════════════════════════════════════════════════════════════════════════

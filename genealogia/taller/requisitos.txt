@@ -1,0 +1,14 @@
+# Lo que hace falta para componer el libro.
+#
+#   pip install -r requisitos.txt
+#   python3 -m playwright install chromium     # el navegador que compone
+#
+# Si el navegador ya está instalado en otro sitio, se indica su ruta en la
+# variable CHROME; si no, se busca en PLAYWRIGHT_BROWSERS_PATH y, en último
+# término, se deja que Playwright resuelva el suyo.
+
+playwright        # compone las páginas y las imprime a PDF
+pypdfium2         # lee el PDF construido: texto, geometría, imágenes
+pikepdf           # sella metadatos, marcadores y etiquetas de página
+fonttools         # mide las tipografías (altura de x, cobertura de glifos)
+brotli            # fonttools lo necesita para abrir los .woff2

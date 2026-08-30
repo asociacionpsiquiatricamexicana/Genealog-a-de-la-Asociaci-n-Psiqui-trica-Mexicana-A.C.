@@ -1,0 +1,12 @@
+# Lo que produce el taller al componer, y que se rehace en cada pasada.
+#
+# Está aquí porque el taller deja nueve megas de intermedios junto a su código:
+# un `git add -A` distraído los sube, y un PDF intermedio en el historial no se
+# borra. Lo publicado —el PDF sellado y los flipbooks de `genealogia/`— sí se
+# versiona, y no lo toca ninguna de estas reglas.
+
+genealogia/taller/pdfs/
+genealogia/taller/__pycache__/
+genealogia/taller/mypages.json
+genealogia/taller/indice_final.json
+genealogia/taller/*.pkl
