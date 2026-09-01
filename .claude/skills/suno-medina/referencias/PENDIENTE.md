@@ -1,5 +1,31 @@
 # Referencias — estado
 
+## Paquete de generación completo para las cuatro pistas sin metatags
+
+A petición expresa del autor («SI PUEDES MODIFICARLAS, NINGUNA ESTA
+PUBLICADA, TODAS SON V1»): El Ladrón Fantasma, Õdế Odýnẽs, Isis sin Velo y
+La Rueda de la Vida no tenían metatags de Suno (ni estructurales ni de
+dirección), a diferencia de las otras ocho pistas. Se les añadió una v3 con
+tags estructurales canónicos en inglés y notas de dirección por sección,
+compuestas por Claude Code siguiendo el vocabulario ya establecido en las
+pistas que sí los traían y la doctrina de Excludes de `album-in-absentia.md`
+§3; y se redactó un Style y un Exclude por pista. Verificado por comparación
+automática que ninguna palabra de la letra cambió entre v1 y v3, y que los
+cuatro Style caben en el límite de 1000 caracteres.
+
+**Segmentación en secciones: inferencia, no transcripción**, salvo en La
+Rueda de la Vida, cuya v1 ya traía tags en español (Verso/Estribillo/Puente)
+que se tradujeron 1:1. En las otras tres no había ninguna estructura previa;
+la división en Verse/Pre-Chorus/Chorus/Bridge se apoyó en las repeticiones
+reales del texto donde las hay (Õdế Odýnẽs, Isis sin Velo) y, en El Ladrón
+Fantasma —texto corrido sin ningún gancho repetido—, en un solo `[Chorus]`
+no repetido que marca el clímax declarativo, sin inventar una repetición
+que el texto no tiene.
+
+**Cada Exclude trae una nota explícita** donde debería ir el núcleo de
+treinta y dos términos antiglotales y antisibilantes: ese núcleo sigue sin
+llegar a esta skill, así que no se rellenó con términos inventados.
+
 ## Escrito, con el corpus completo del álbum
 
 | Archivo | Contenido |
