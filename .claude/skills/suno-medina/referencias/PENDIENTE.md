@@ -13,26 +13,29 @@
 | `produccion-studio.md`, `voice-profiles.md`, `legal-distribucion.md` | referencia técnica general de Suno, no específica del álbum |
 | `../teoria-musical-compendio.md`, `../ia-musica-sota.md` | compendios generales |
 
-## Discrepancias declaradas, no resueltas por esta sesión — requieren decisión del autor
+## Discrepancias — qué se cerró y qué no
 
-1. **Numeración de pistas.** El índice maestro (diecinueve de agosto) y los
-   documentos de nomenclatura y mediciones (diecisiete de agosto) numeran
-   las pistas cinco a diez en orden distinto. Se adoptó la numeración del
-   índice maestro en todo este paquete, por ser posterior y autodeclararse
-   canónica; los archivos de letra ya entregados confirman esa numeración
-   (ver `nomenclatura-metadatos.md` §0).
-2. **Rotulación de «Isis sin Velo».** Su archivo de letra publicada trae la
-   cabecera de la fuente recuperada mal rotulada como «Saint-Germain»; el
-   propio autor pide verificar si el vídeo publicado tiene el mismo error.
-3. **Doble concepción de «El Ladrón Fantasma».** Existen dos letras
-   incompatibles para la misma casilla del álbum (el Ladrón dirigiéndose a
-   sus víctimas, frente al Ladrón dirigiéndose a un discípulo perdido); solo
-   la primera llegó a esta skill. El propio autor declara que requiere su
-   decisión.
-4. **Duración de «La Voz del Desierto».** El índice maestro trae dos notas
-   mutuamente excluyentes (4:00 frente a 5:30).
-5. **Tonalidad de «La Casa de Dulce».** Es la casilla del mapa Camelot con
-   menor respaldo de medición de las doce (ver `mediciones-semillas.md` §3).
+Cerradas con evidencia de este paquete: la numeración de pistas (confirmada
+por las doce letras entregadas) y la hipótesis ternaria de Philémōn
+(reforzada por la medición de semilla). Cerrada por una decisión que ya
+tomó el autor, no por esta sesión: la tonalidad de La Casa de Dulce (el
+índice maestro eligió La menor 8A pese a ser la medición más débil del
+proyecto; no hay dato nuevo que la desplace).
+
+Sin cerrar, y no se fuerza un cierre sin la evidencia que falta:
+
+1. **Duración de «La Voz del Desierto».** Se contaron los versos cantados
+   reales del archivo entregado: setenta y siete, no los noventa y nueve que
+   supondría una de las dos notas del índice maestro. Ese conteo no confirma
+   ninguna de las dos duraciones tal como están escritas.
+2. **Rotulación de «Isis sin Velo».** Requiere ver el vídeo publicado
+   realmente, para confirmar si comparte el error de la cabecera recuperada.
+   Sin acceso a ese vídeo, no hay manera de resolverlo desde aquí.
+3. **Doble concepción de «El Ladrón Fantasma».** El autor declara que existe
+   una segunda letra completa e incompatible («línea v54–v59») que nunca se
+   entregó a esta skill. Elegir entre las dos sin tener el segundo texto
+   sería inventar cuál escribió el autor, no decidir entre dos que sí se
+   tienen.
 
 ## Documentos referidos pero no recibidos por esta skill
 

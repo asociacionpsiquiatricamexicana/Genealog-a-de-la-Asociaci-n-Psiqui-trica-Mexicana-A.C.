@@ -114,46 +114,58 @@ inventarla: la traducción de nombres de artistas o equipo de estudio a
 descriptores audibles (regla de §2.4) debe hacerse sobre la marcha,
 declarando que se hizo sin la tabla, hasta que el autor la proporcione.
 
-## 5. Lo que queda declarado sin resolver
+## 5. Cerrado con evidencia, cerrado por decisión ya tomada, y lo que sigue sin poder cerrarse
+
+**Cerrado con evidencia de este paquete:**
+
+- **Numeración de pistas:** las doce letras entregadas usan, sin excepción,
+  la numeración del índice maestro (no la del documento de nomenclatura del
+  diecisiete de agosto). Confirmado, no solo adoptado por ser más reciente.
+- **Hipótesis ternaria de Philémōn:** reforzada por la medición de semilla
+  (`mediciones-semillas.md` §3): 97 × 4/3 = 129,3, dentro del mismo bin que
+  el BPM medido.
+
+**Cerrado por decisión ya tomada por el autor, no por esta sesión:**
+
+- **Tonalidad de La Casa de Dulce (track 10):** la medición de semilla es la
+  más débil del proyecto (r=0,503, tres candidatas dentro de 0,08), pero el
+  índice maestro ya eligió La menor 8A. No hay medición adicional en este
+  paquete que la desplace, así que esa elección es la que rige. Se deja
+  constancia de que es la casilla del mapa con menos respaldo empírico, no
+  como pregunta abierta.
+
+**No se pudo cerrar, y no se fuerza un cierre por evidencia insuficiente:**
 
 - **Duración de «La Voz del Desierto» (track 7):** el documento fuente trae
-  dos notas mutuamente excluyentes sobre su duración (4:00 al «revertirse la
-  migración» frente a 5:30 «para alojar sus noventa y nueve versos a 60
-  BPM»). No se decidió cuál rige; la tabla de §1 conserva la duración de
-  4:00 que trae la fila principal del índice maestro, pero cualquier flujo
-  que dependa de la duración exacta de este track debe confirmar con el
-  autor cuál nota está vigente. La letra `letras/07_LaVozDelDesierto_letra_v2_VIGENTE.txt`
-  ya existe completa; no resuelve la duración por sí sola.
-- **Tonalidad de La Casa de Dulce (track 10):** la medición de semilla la deja
-  como la más débil del proyecto (r=0,503, tres candidatas dentro de 0,08).
-  El índice maestro adopta La menor 8A, apoyado en una variante histórica de
-  atribución dudosa que no comparte el tempo medido. No es un error, pero es
-  la casilla del mapa con menos respaldo empírico; ver `mediciones-semillas.md`
-  §3.
-- **Núcleo antiglotal y antisibilante de treinta y dos términos:** referido
-  en §3 pero no transcrito en el documento fuente recibido. Falta.
-- **Rotulación de «Isis sin Velo» (track 8):** su propio archivo de letra
-  (`letras/08_IsisSinVelo_letra_v1_PUBLICADA.txt`) trae una nota del autor:
-  la cabecera de la fuente recuperada decía «Quinta pieza "Saint-Germain"
-  (2026)», pero el texto es inequívocamente Isis sin Velo. El autor mismo
-  señala «VERIFICAR si el vídeo publicado está mal rotulado». No se
-  investigó ni se corrigió: es una discrepancia en el material ya publicado,
-  no en este paquete.
+  dos notas mutuamente excluyentes (4:00 al «revertirse la migración» frente
+  a 5:30 «para alojar sus noventa y nueve versos a 60 BPM»). Se contaron los
+  versos cantados reales de `letras/07_LaVozDelDesierto_letra_v2_VIGENTE.txt`:
+  setenta y siete, no noventa y nueve. Esa cifra no confirma ninguna de las
+  dos notas tal como están escritas, así que no hay base para elegir una: la
+  tabla de §1 conserva 4:00 por ser la de la fila principal del índice
+  maestro, pero sigue siendo una elección por defecto, no una resolución.
+- **Rotulación de «Isis sin Velo» (track 8):** su archivo de letra trae la
+  nota propia del autor de que la cabecera de la fuente recuperada decía
+  «Quinta pieza "Saint-Germain" (2026)» y pide «VERIFICAR si el vídeo
+  publicado está mal rotulado». Esto exige mirar el vídeo publicado
+  realmente, algo a lo que esta sesión no tiene acceso; no se puede resolver
+  sin ese dato, y no se inventa.
 - **Doble concepción de «El Ladrón Fantasma» (track 2):** el archivo
-  `letras/02_ElLadronFantasma_letra_v1_PUBLICADA.txt`, marcado por el autor
-  como «VERSIÓN CANÓNICA», trae una advertencia propia: existe otra letra
-  («línea v54–v59», no incluida en este paquete) donde el Ladrón se dirige a
-  un discípulo perdido en vez de a sus víctimas. El autor declara que «ambas
-  no pueden ocupar la misma casilla del álbum» y que «requiere decisión del
-  autor». No se eligió entre ellas aquí.
+  recibido, marcado por el autor como «VERSIÓN CANÓNICA», declara que existe
+  otra letra completa e incompatible («línea v54–v59») que nunca llegó a
+  esta skill. Elegir entre las dos sin tener el segundo texto no sería una
+  decisión editorial: sería inventar cuál de las dos escribió el autor. No
+  se hace.
 - **Documentos referidos pero no recibidos por esta skill:**
   `00b-DECISIONES-PENDIENTES.md` (ordinal de pista en disputa, según
   `metadatos-distribucion.md`), `00d-ISRC-UPC-TRACKER.md` (solo se conoce el
   ISRC de Demian, ver §1), `00g-RUTA-OPERATIVA-REAL.md` (detalle completo de
   la ruta de distribución), `checklist-saneamiento.md` (higiene de muestras
-  de terceros), y los documentos «Parte I» y «Parte II» que
+  de terceros), el núcleo antiglotal y antisibilante de treinta y dos
+  términos referido en §3, y los documentos «Parte I» y «Parte II» que
   `mediciones-semillas.md` cita por sección (§3, §5, §10) sin que se hayan
-  recibido completos.
+  recibido completos. Ninguno de estos es una decisión que se pueda tomar
+  sin el documento: son datos ausentes, no dilemas.
 
 ## 6. Estado del corpus (roadmap)
 
