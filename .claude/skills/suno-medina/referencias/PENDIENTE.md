@@ -87,3 +87,52 @@ skill hermana `analisis-semilla-medina` (cuantización con resolución
 decreciente en tempos altos, hasta ±8 BPM por encima de 140). No se corrigió
 aquí porque esa skill no formaba parte del encargo; queda anotado para quien
 la mantenga.
+
+## Segunda entrega masiva: nueve pistas con contenido nuevo del autor
+
+El autor pegó directamente, con sus propios metatags de Suno ya aplicados
+en casi todos los casos, contenido nuevo para nueve de las doce pistas
+(Demian, Philémōn, Saint-Germain, Õdế Odýnẽs, La Voz del Desierto —una
+corrección de una palabra—, Isis sin Velo, El Sueño de Avalón, La Casa de
+Dulce, La Rueda de la Vida y Postludio). Todo se transcribió verbatim, sin
+ninguna alteración de Claude Code, siguiendo la convención de versiones
+del propio autor: se archivó lo superado (`_archivo`, nunca se borra) y
+solo la versión más reciente de cada pista quedó como `_VIGENTE`.
+
+**Elección de «más reciente» como VIGENTE es un default de esta sesión, no
+una decisión del autor.** Cinco pistas tienen ahora, archivadas, más de una
+concepción o arreglo genuinamente distinto del mismo lugar del álbum, sin
+que el autor haya señalado cuál prefiere:
+
+- **Preludio (1):** v2 archivo, cinematográfico (piano, mellotron, drone) —
+  frente a v3 vigente, fingerstyle con pájaros de fondo.
+- **El Sueño de Avalón (9):** v2 archivo, con tags en inglés — frente a v3
+  vigente, con estructura propia en español que diverge después de la
+  apertura compartida.
+- **La Casa de Dulce (10):** v2 archivo, «Gretel, prende el atanor» — frente
+  a v3 vigente, «Nos perdimos, hermana, siguiendo migajas», concepción
+  distinta sobre el mismo cuento.
+- **La Rueda de la Vida (11):** v2 y v3 archivo (derivados de Claude Code) —
+  frente a v4 vigente, arreglo propio del autor sobre el mismo poema base,
+  con secciones fusionadas distinto.
+- **El Ladrón Fantasma (2):** v2 y v3 archivo (mis derivados sobre el
+  texto original) — frente a v4 vigente, recibida en el turno anterior a
+  esta entrega y recuperada aquí porque no había quedado guardada. La v4
+  trae versos de los dos registros que la v1 declaraba incompatibles
+  («quien ose seguirme sentirá su suplicio» junto con «revelar la senda
+  que guía a toda sombra perdida»), así que podría ser la resolución del
+  autor a esa discrepancia; no se dio por resuelta sin que él lo confirme
+  (ver album-in-absentia.md §5).
+
+**Dos incumplimientos de checklist-pregeneracion.md §7, señalados, no
+corregidos:** La Casa de Dulce v3 y La Rueda de la Vida v4 usan «falsetto»
+y «de-essed» (además de «soft sibilants» en Rueda) en sus notas de
+dirección, términos que el propio autor marcó como proscritos o
+proscrito-condicionales para el campo Style. Es contenido pegado
+directamente por el autor, no una composición de esta skill, así que no se
+tocó; hay que revisarlo antes de pegar esos textos en Suno tal cual.
+
+Ninguna de estas nueve pistas tiene todavía Style ni Exclude compuestos
+(salvo las cuatro de la primera entrega, cuyos Style/Exclude siguen
+vigentes pero pueden no corresponder ya a la letra más reciente si esta
+entrega la reemplazó). Pendiente de encargo explícito.

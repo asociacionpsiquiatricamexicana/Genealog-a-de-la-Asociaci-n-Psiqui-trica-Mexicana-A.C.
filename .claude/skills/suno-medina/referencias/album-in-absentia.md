@@ -150,12 +150,17 @@ declarando que se hizo sin la tabla, hasta que el autor la proporcione.
   publicado está mal rotulado». Esto exige mirar el vídeo publicado
   realmente, algo a lo que esta sesión no tiene acceso; no se puede resolver
   sin ese dato, y no se inventa.
-- **Doble concepción de «El Ladrón Fantasma» (track 2):** el archivo
-  recibido, marcado por el autor como «VERSIÓN CANÓNICA», declara que existe
-  otra letra completa e incompatible («línea v54–v59») que nunca llegó a
-  esta skill. Elegir entre las dos sin tener el segundo texto no sería una
-  decisión editorial: sería inventar cuál de las dos escribió el autor. No
-  se hace.
+- **Doble concepción de «El Ladrón Fantasma» (track 2) — posiblemente
+  reconciliada, no confirmada.** La v1 PUBLICADA, marcada «VERSIÓN
+  CANÓNICA», declaraba que existía otra letra completa e incompatible
+  («línea v54–v59») dirigida a un discípulo en vez de a las víctimas, y que
+  requería decisión del autor. La v4 recibida después
+  (`letras/02_ElLadronFantasma_letra_v4_VIGENTE.txt`) trae versos de ambos
+  registros en la misma letra («quien ose seguirme sentirá su suplicio»
+  junto con «revelar la senda que guía a toda sombra perdida», «Cuiden mi
+  historia… para ser libre en su esencia»). Podría ser la resolución del
+  autor a esa discrepancia, o una tercera concepción que la reformula; no
+  se da por cerrada sin que él lo confirme.
 - **Dato operativo que sigue faltando, no una nota vieja:**
   `00d-ISRC-UPC-TRACKER.md`. Solo se conoce el ISRC de Demian (§1); para
   cualquier otra pista del álbum, declarar la ausencia y pedir el código al
