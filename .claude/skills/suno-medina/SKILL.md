@@ -15,7 +15,8 @@ description: >
 
 Archivos de referencia (opcionales; leer solo cuando la solicitud los toque):
 
-- `referencias/album-el-viaje.md` — proyecto de álbum: DNA sonoro, mapa Camelot, arquetipos, Fridmann, roadmap
+- `referencias/album-in-absentia.md` — álbum «In Absentia»: DNA sonoro, mapa Camelot, doctrina de Excludes, roadmap del corpus
+- `referencias/nomenclatura-metadatos.md` — convenciones de nombre de archivo y metadatos de «In Absentia»
 - `referencias/produccion-studio.md` — transiciones, instrumentales, mastering, export, Suno Studio
 - `referencias/voice-profiles.md` — creación y uso del perfil vocal propio
 - `referencias/legal-distribucion.md` — derechos, litigios, distribución
@@ -39,10 +40,10 @@ Antes de construir nada, determinar el destino:
 
 | Destino | Perfil de producción que rige |
 |---|---|
-| **Track del álbum "El Viaje"** | DNA del álbum (`referencias/album-el-viaje.md` §1). KEY y BPM salen del mapa Camelot, NO del template base. Si el archivo falta, pedir al usuario el DNA y la casilla Camelot del track antes de construir nada. |
+| **Track del álbum "In Absentia"** | DNA del álbum (`referencias/album-in-absentia.md` §1). KEY y BPM salen del mapa Camelot del índice maestro, NO del template base. Si el archivo falta, pedir al usuario el DNA y la casilla Camelot del track antes de construir nada. |
 | **Pieza suelta** | Perfil base (§1 de este archivo) + template §2.3. |
 
-Si no es obvio, preguntar: «¿Es para "El Viaje" o pieza independiente?».
+Si no es obvio, preguntar: «¿Es para "In Absentia" o pieza independiente?».
 Los dos perfiles son filosofías de mezcla opuestas (seca íntima vs. densa
 neo-psicodélica); nunca mezclarlos en un mismo prompt.
 
@@ -136,7 +137,7 @@ es el patrón más predecible (§3.4).
   explícito en jazz.
 
 Ver §2.4: NO nombres de artistas ni equipos de estudio (Neve, SSL); traducir a descriptores
-audibles mediante la tabla Fridmann de `referencias/album-el-viaje.md` §5. Si la tabla
+audibles mediante la tabla Fridmann de `referencias/album-in-absentia.md` §4. Si la tabla
 falta, traducir sobre la marcha a descriptores de timbre, dinámica y espacio
 (por ejemplo, «tape saturation, soft transients, narrow stereo») y declarar que se
 hizo sin la tabla.
@@ -255,7 +256,7 @@ No darkwave, no drum machine, no vocal fry, no chest voice breaks,
 no epic swells, no hall reverb, no room reverb.
 ```
 
-Para tracks del álbum: usar el DNA de `referencias/album-el-viaje.md` en su lugar.
+Para tracks del álbum: usar el DNA de `referencias/album-in-absentia.md` en su lugar.
 
 ### 2.4 Reglas críticas
 
@@ -268,7 +269,7 @@ Para tracks del álbum: usar el DNA de `referencias/album-el-viaje.md` en su lug
 - 5–8 tags descriptivos; >10 genera conflicto.
 - Eliminar cumplidos vacíos (`professional`, `high-quality`, `amazing`).
 - Sin nombres de artistas ni equipo de estudio: traducir a descriptores
-  audibles (tabla Fridmann en `referencias/album-el-viaje.md` §5; si falta,
+  audibles (tabla Fridmann en `referencias/album-in-absentia.md` §4; si falta,
   traducir sobre la marcha y declararlo, como en §0.C).
 
 ---

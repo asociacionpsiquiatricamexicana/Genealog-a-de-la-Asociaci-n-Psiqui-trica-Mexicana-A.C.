@@ -1,21 +1,31 @@
-# Referencias pendientes de incorporar
+# Referencias pendientes — estado
 
-Esta carpeta debe contener los cuatro documentos de referencia que el
-`SKILL.md` remite, y la raíz de la skill los dos compendios. Al instalar la
-skill en este repositorio (septiembre de dos mil veintiséis) ninguno de los
-seis existía en el paquete sincronizado desde claude.ai ni en ningún otro
-lugar del disco, por lo que se dejan declarados aquí en vez de reconstruirlos
-de memoria.
+Los seis archivos que el `SKILL.md` original remitía ya se escribieron, con
+una excepción y dos discrepancias declaradas dentro de los propios archivos:
 
-| Archivo esperado | Contenido que el `SKILL.md` le atribuye |
+| Archivo | Estado |
 |---|---|
-| `referencias/album-el-viaje.md` | ADN sonoro del álbum, mapa Camelot, arquetipos, tabla Fridmann, hoja de ruta |
-| `referencias/produccion-studio.md` | transiciones, instrumentales, mastering, exportación, Suno Studio |
-| `referencias/voice-profiles.md` | creación y uso del perfil vocal propio |
-| `referencias/legal-distribucion.md` | derechos, litigios, distribución |
-| `../teoria-musical-compendio.md` | métrica, intervalos, escalas, estilos |
-| `../ia-musica-sota.md` | arquitectura de generación, capacidades, limitaciones, contexto legal |
+| `referencias/album-in-absentia.md` | escrito, a partir del «Índice Maestro» que aportó el autor. Renombrado: el proyecto se llama «In Absentia», no «El Viaje» como decía el `SKILL.md` original. Ver su §5 para lo que queda sin resolver dentro del propio álbum. |
+| `referencias/nomenclatura-metadatos.md` | escrito, a partir del documento homónimo del autor. Archivo nuevo, no estaba en la lista original del `SKILL.md`; se añadió porque el índice maestro remite a convenciones de nombre y metadatos que no encajaban en ningún otro archivo. Su §0 señala una discrepancia de numeración entre este documento y el índice maestro. |
+| `referencias/produccion-studio.md` | escrito, referencia técnica general de Suno (no específica de «In Absentia») |
+| `referencias/voice-profiles.md` | escrito, referencia técnica general de Suno |
+| `referencias/legal-distribucion.md` | escrito, desarrolla §0.D del `SKILL.md` |
+| `../teoria-musical-compendio.md` | escrito, compendio de teoría musical general |
+| `../ia-musica-sota.md` | escrito, compendio de arquitectura y estado del arte |
 
-Mientras falten, rige la regla de integridad del paquete del `SKILL.md`: se
-declara la ausencia, se pide el dato concreto al autor y se deja constancia de
-la sustitución. Cuando se incorporen, este archivo se borra.
+## Lo que sigue pendiente
+
+- `00d-ISRC-UPC-TRACKER.md`: remitido desde `nomenclatura-metadatos.md` §5
+  para el ISRC de cada pista. No se recibió; no se inventó ningún código.
+- El núcleo de treinta y dos términos antiglotales y antisibilantes de la
+  doctrina de Excludes (`album-in-absentia.md` §3): referido pero no
+  transcrito en el documento fuente.
+- La duración real de «La Voz del Desierto» (`album-in-absentia.md` §5): el
+  índice maestro trae dos notas mutuamente excluyentes.
+- Confirmar si existen archivos de audio o de texto ya nombrados con la
+  numeración antigua de pistas 5 a 10 (`nomenclatura-metadatos.md` §0), que
+  habría que auditar antes de aplicar la numeración nueva sin más.
+
+Mientras falte alguno de estos datos, rige la regla de integridad del
+`SKILL.md`: se declara la ausencia y se pide el dato concreto, en vez de
+suponerlo.
