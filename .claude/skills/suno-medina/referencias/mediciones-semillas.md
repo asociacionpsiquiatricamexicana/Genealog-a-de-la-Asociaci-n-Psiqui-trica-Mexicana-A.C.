@@ -100,9 +100,9 @@ Rueda de la Vida (error de subida, confirmado por el autor; la semilla
 correcta es «Time 1 (Remixed)», medida arriba). Sobre la tonalidad, dos
 lecturas menores son posibles —Re menor 7A (relativa de la primera candidata)
 o La menor 8A (relativa de la segunda)—; esta última coincide con una
-variante histórica de folk noir «La menor, 8A, 100 BPM» registrada con
-atribución dudosa en un documento no incluido en este paquete («Parte II
-§5»), aunque el tempo histórico (100) no case con el medido (60,1). El
+variante histórica de folk noir «La menor, 8A, 100 BPM», de atribución
+dudosa y ya superada por la medición, aunque el tempo histórico (100) no
+case con el medido (60,1). El
 índice maestro adopta La menor 8A a 60 BPM: usa la tonalidad de la variante
 histórica pero no su tempo. Queda como la casilla del mapa Camelot con menor
 respaldo de medición de las doce.
@@ -116,9 +116,10 @@ pero deja de ser una hipótesis sin apoyo.
 
 ## 4. Derogaciones respecto de fichas históricas anteriores
 
-Referidas como «Parte II §3» y «Parte II §5» en el documento fuente; esos
-documentos no se recibieron en este paquete, así que lo siguiente se
-transcribe como contexto, no como algo verificable desde aquí:
+Notas de trabajo previas a la medición de semilla, superadas por ella; el
+autor las declara viejas e innecesarias de perseguir como documentos aparte.
+Se conservan aquí solo como el contraste que explica por qué el álbum
+cambió de forma en dos casillas:
 
 - **Isis sin Velo (8):** una ficha histórica decía Sol mayor lidio 9B / 94;
   la semilla dice Re♯ menor 2A / 92,3. El BPM casi coincide; la tonalidad no.

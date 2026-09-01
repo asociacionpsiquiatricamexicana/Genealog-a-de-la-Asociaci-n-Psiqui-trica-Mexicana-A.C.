@@ -156,16 +156,18 @@ declarando que se hizo sin la tabla, hasta que el autor la proporcione.
   esta skill. Elegir entre las dos sin tener el segundo texto no sería una
   decisión editorial: sería inventar cuál de las dos escribió el autor. No
   se hace.
-- **Documentos referidos pero no recibidos por esta skill:**
-  `00b-DECISIONES-PENDIENTES.md` (ordinal de pista en disputa, según
-  `metadatos-distribucion.md`), `00d-ISRC-UPC-TRACKER.md` (solo se conoce el
-  ISRC de Demian, ver §1), `00g-RUTA-OPERATIVA-REAL.md` (detalle completo de
-  la ruta de distribución), `checklist-saneamiento.md` (higiene de muestras
-  de terceros), el núcleo antiglotal y antisibilante de treinta y dos
-  términos referido en §3, y los documentos «Parte I» y «Parte II» que
-  `mediciones-semillas.md` cita por sección (§3, §5, §10) sin que se hayan
-  recibido completos. Ninguno de estos es una decisión que se pueda tomar
-  sin el documento: son datos ausentes, no dilemas.
+- **Dato operativo que sigue faltando, no una nota vieja:**
+  `00d-ISRC-UPC-TRACKER.md`. Solo se conoce el ISRC de Demian (§1); para
+  cualquier otra pista del álbum, declarar la ausencia y pedir el código al
+  autor en vez de generar uno. El núcleo antiglotal y antisibilante de
+  treinta y dos términos referido en §3 tiene el mismo tratamiento: falta,
+  no se inventa.
+  (`00b-DECISIONES-PENDIENTES.md`, `00g-RUTA-OPERATIVA-REAL.md`,
+  `checklist-saneamiento.md` y los documentos «Parte I»/«Parte II» eran
+  notas de trabajo ya superadas, según confirma el autor; su contenido
+  relevante ya está incorporado en `metadatos-distribucion.md` y
+  `mediciones-semillas.md` §4, así que se dejó de perseguirlos como
+  archivos aparte.)
 
 ## 6. Estado del corpus (roadmap)
 

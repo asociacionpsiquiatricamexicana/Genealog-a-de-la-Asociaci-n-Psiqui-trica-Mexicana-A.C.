@@ -39,16 +39,20 @@ Sin cerrar, y no se fuerza un cierre sin la evidencia que falta:
 
 ## Documentos referidos pero no recibidos por esta skill
 
-`00b-DECISIONES-PENDIENTES.md`, `00d-ISRC-UPC-TRACKER.md` (solo se conoce el
-ISRC de Demian), `00g-RUTA-OPERATIVA-REAL.md`, `checklist-saneamiento.md`,
-el núcleo de treinta y dos términos antiglotales de la doctrina de Excludes,
-el léxico proscrito §11.1/§11.2 de `checklist-pregeneracion.md`, y los
-documentos «Parte I» y «Parte II» que `mediciones-semillas.md` cita por
-sección sin que se hayan recibido completos.
+El autor confirma que `00b-DECISIONES-PENDIENTES.md`, `00g-RUTA-OPERATIVA-REAL.md`,
+`checklist-saneamiento.md` y los documentos «Parte I» y «Parte II» son notas
+de trabajo superadas: no hace falta perseguirlas. Su contenido relevante ya
+quedó incorporado donde correspondía (la ruta de distribución real en
+`metadatos-distribucion.md`; las derogaciones de ficha en
+`mediciones-semillas.md` §4).
 
-Mientras falte alguno de estos datos, rige la regla de integridad del
-`SKILL.md`: se declara la ausencia y se pide el dato concreto, en vez de
-suponerlo.
+Sigue activo, porque no es una nota vieja sino un dato operativo que se usa
+en cada lanzamiento: `00d-ISRC-UPC-TRACKER.md`. Solo se conoce el ISRC de
+Demian (ver `album-in-absentia.md` §1); para cualquier otra pista, declarar
+la ausencia y pedir el código al autor en vez de generar uno. Igual con el
+núcleo de treinta y dos términos antiglotales de la doctrina de Excludes y
+el léxico proscrito §11.1/§11.2 de `checklist-pregeneracion.md`: no son
+notas viejas, son listas de trabajo activas que faltan.
 
 ## Fuera del alcance de esta skill
 

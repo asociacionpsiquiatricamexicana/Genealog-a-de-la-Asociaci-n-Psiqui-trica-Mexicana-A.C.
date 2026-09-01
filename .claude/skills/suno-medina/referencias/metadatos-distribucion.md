@@ -12,27 +12,26 @@ Pista: __________ | Fecha de redacción: __________
 - Título exacto (idéntico byte a byte en todas partes): __________
 - Artista: José Carlos Medina-Rodríguez
 - Álbum: In Absentia (MMXXVI)
-- Número de pista / ordinal: __________ (verificar contra
-  `00b-DECISIONES-PENDIENTES.md` si está en disputa — documento no incluido
-  en este paquete; declarado ausente)
+- Número de pista / ordinal: __________ (la numeración del índice maestro
+  ya está confirmada por las doce letras entregadas — `album-in-absentia.md`
+  §5 — así que no está en disputa salvo aviso nuevo del autor)
 - Compositor / letra: José Carlos Medina-Rodríguez
 - Productor / arreglo / mezcla / masterización: José Carlos Medina-Rodríguez
 - ℗ 2026 José Carlos Medina-Rodríguez
 - Fecha de lanzamiento: __________
 - Idioma de la letra: español
-- ISRC: __________ (ver `00d-ISRC-UPC-TRACKER.md` — no incluido en este
-  paquete; se asigna UNA vez, nunca se regenera por plataforma. El único
-  ISRC confirmado que llegó a esta skill es el de Demian, transcrito en
+- ISRC: __________ (se asigna UNA vez, nunca se regenera por plataforma;
+  el tracker de asignación sigue sin llegar a esta skill. El único ISRC
+  confirmado es el de Demian, transcrito en
   `letras/03_Demian_letra_v1_PUBLICADA.txt`: UPC 885975779393, ISRC
   QZMHK2632356)
 - UPC/catálogo del álbum (si aplica): __________
 
 ## Divulgación de IA — mecanismo real según la ruta vigente
 
-Ver `00g-RUTA-OPERATIVA-REAL.md` (corregido el 13 de agosto de 2026; no
-incluido en este paquete) para el detalle completo. Para toda pista, la ruta
-confirmada es Suno → selección propia → SoundCloud (subida primaria, ISRC de
-origen) → exportación desde SoundCloud a Spotify. La divulgación de IA se
+Para toda pista, la ruta confirmada (corregida por el autor el trece de
+agosto de 2026) es Suno → selección propia → SoundCloud (subida primaria,
+ISRC de origen) → exportación desde SoundCloud a Spotify. La divulgación de IA se
 declara en el formulario de SoundCloud, ya usado y validado con Demian; queda
 pendiente confirmar si la exportación a Spotify hereda esa divulgación o
 exige declararla de nuevo.
@@ -73,8 +72,8 @@ desviaciones respecto del prompt de entrada, como precedente de cómo hacerlo.
   suele requerir descargas desactivadas en la plataforma de origen si hay
   distribuidor de por medio)
 - Licencia: todos los derechos reservados
-- Contiene muestras/samples de terceros: no (verificar higiene con
-  `checklist-saneamiento.md`, no incluido en este paquete)
+- Contiene muestras/samples de terceros: no (verificar higiene antes de
+  publicar, con el criterio de saneamiento vigente del autor)
 
 ## Verificación final antes de publicar
 
@@ -83,4 +82,4 @@ desviaciones respecto del prompt de entrada, como precedente de cómo hacerlo.
    propagado).
 2. ISRC copiado del tracker, no reintroducido a mano por plataforma.
 3. Ordinal de pista resuelto, no en disputa.
-4. Checklist de saneamiento completa antes de este documento.
+4. Higiene de muestras de terceros verificada antes de este documento.
