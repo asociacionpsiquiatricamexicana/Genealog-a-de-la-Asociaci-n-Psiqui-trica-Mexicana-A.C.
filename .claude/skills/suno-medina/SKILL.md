@@ -17,6 +17,10 @@ Archivos de referencia (opcionales; leer solo cuando la solicitud los toque):
 
 - `referencias/album-in-absentia.md` — álbum «In Absentia»: DNA sonoro, mapa Camelot, doctrina de Excludes, roadmap del corpus
 - `referencias/nomenclatura-metadatos.md` — convenciones de nombre de archivo y metadatos de «In Absentia»
+- `referencias/mediciones-semillas.md` — banco DSP de las doce semillas del álbum, contrastado contra el índice maestro
+- `referencias/checklist-pregeneracion.md` — checklist previa a disparar una generación (distinta de la de §9)
+- `referencias/metadatos-distribucion.md` — plantilla de metadatos y divulgación de IA por plataforma
+- `referencias/letras/` — las doce letras de «In Absentia», en el estado en que llegaron (VIGENTE o PUBLICADA); no se tocan
 - `referencias/produccion-studio.md` — transiciones, instrumentales, mastering, export, Suno Studio
 - `referencias/voice-profiles.md` — creación y uso del perfil vocal propio
 - `referencias/legal-distribucion.md` — derechos, litigios, distribución

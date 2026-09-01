@@ -14,6 +14,11 @@ del repositorio del libro no aplica aquí de forma literal —esto no es una
 cita ajena—, pero el principio sí: los datos del proyecto son del autor, y
 donde falten no se rellenan con lo que parece probable.
 
+El resto del corpus vive en `letras/` (las doce letras, en el estado en que
+llegaron: VIGENTE o PUBLICADA, sin tocar una palabra), `mediciones-semillas.md`
+(el banco DSP de las doce semillas, contrastado contra este índice),
+`checklist-pregeneracion.md` y `metadatos-distribucion.md`.
+
 ## 1. Secuencia canónica y mapa Camelot
 
 Secuencia canónica al diecinueve de agosto de dos mil veintiséis, con el
@@ -50,6 +55,19 @@ del álbum salen de aquí, nunca del perfil base de §1. Si el track no aparece
 en esta tabla (por ejemplo, una pieza nueva aún no asignada), preguntar al
 autor antes de asignarle una casilla Camelot: la sección siguiente explica
 por qué no se infiere.
+
+**Datos confirmados con posterioridad a este índice, sin alterar la tabla:**
+
+- `mediciones-semillas.md` mide las doce semillas por DSP y las contrasta
+  contra esta tabla: once pistas coinciden dentro del margen de
+  incertidumbre del estimador; La Casa de Dulce (10) es la única con
+  tonalidad débilmente confirmada (ver §5 de este archivo).
+- El ISRC y el UPC de Demian (3) ya se conocen: UPC 885975779393, ISRC
+  QZMHK2632356 (transcritos en `letras/03_Demian_letra_v1_PUBLICADA.txt`).
+  Es el único dato de `00d-ISRC-UPC-TRACKER.md` que llegó a esta skill.
+- «Hipótesis ternaria abierta (97)» en Philémōn (4): reforzada, no
+  confirmada del todo, por la medición de semilla (`mediciones-semillas.md`
+  §3). Ya no es una hipótesis sin apoyo.
 
 ## 2. Rimas armónicas de la secuencia
 
@@ -104,21 +122,56 @@ declarando que se hizo sin la tabla, hasta que el autor la proporcione.
   BPM»). No se decidió cuál rige; la tabla de §1 conserva la duración de
   4:00 que trae la fila principal del índice maestro, pero cualquier flujo
   que dependa de la duración exacta de este track debe confirmar con el
-  autor cuál nota está vigente.
+  autor cuál nota está vigente. La letra `letras/07_LaVozDelDesierto_letra_v2_VIGENTE.txt`
+  ya existe completa; no resuelve la duración por sí sola.
+- **Tonalidad de La Casa de Dulce (track 10):** la medición de semilla la deja
+  como la más débil del proyecto (r=0,503, tres candidatas dentro de 0,08).
+  El índice maestro adopta La menor 8A, apoyado en una variante histórica de
+  atribución dudosa que no comparte el tempo medido. No es un error, pero es
+  la casilla del mapa con menos respaldo empírico; ver `mediciones-semillas.md`
+  §3.
 - **Núcleo antiglotal y antisibilante de treinta y dos términos:** referido
   en §3 pero no transcrito en el documento fuente recibido. Falta.
-- **Hipótesis ternaria abierta en Philémōn (nota «97» junto al estado):** el
-  documento fuente no explica a qué se refiere ese noventa y siete. No se
-  interpretó.
-- **`00d-ISRC-UPC-TRACKER.md`:** el archivo de nomenclatura y metadatos
-  remite a este tracker para el ISRC de cada pista. No se recibió; ver
-  `referencias/nomenclatura-metadatos.md` §5.
+- **Rotulación de «Isis sin Velo» (track 8):** su propio archivo de letra
+  (`letras/08_IsisSinVelo_letra_v1_PUBLICADA.txt`) trae una nota del autor:
+  la cabecera de la fuente recuperada decía «Quinta pieza "Saint-Germain"
+  (2026)», pero el texto es inequívocamente Isis sin Velo. El autor mismo
+  señala «VERIFICAR si el vídeo publicado está mal rotulado». No se
+  investigó ni se corrigió: es una discrepancia en el material ya publicado,
+  no en este paquete.
+- **Doble concepción de «El Ladrón Fantasma» (track 2):** el archivo
+  `letras/02_ElLadronFantasma_letra_v1_PUBLICADA.txt`, marcado por el autor
+  como «VERSIÓN CANÓNICA», trae una advertencia propia: existe otra letra
+  («línea v54–v59», no incluida en este paquete) donde el Ladrón se dirige a
+  un discípulo perdido en vez de a sus víctimas. El autor declara que «ambas
+  no pueden ocupar la misma casilla del álbum» y que «requiere decisión del
+  autor». No se eligió entre ellas aquí.
+- **Documentos referidos pero no recibidos por esta skill:**
+  `00b-DECISIONES-PENDIENTES.md` (ordinal de pista en disputa, según
+  `metadatos-distribucion.md`), `00d-ISRC-UPC-TRACKER.md` (solo se conoce el
+  ISRC de Demian, ver §1), `00g-RUTA-OPERATIVA-REAL.md` (detalle completo de
+  la ruta de distribución), `checklist-saneamiento.md` (higiene de muestras
+  de terceros), y los documentos «Parte I» y «Parte II» que
+  `mediciones-semillas.md` cita por sección (§3, §5, §10) sin que se hayan
+  recibido completos.
 
 ## 6. Estado del corpus (roadmap)
 
-Seis piezas con letra publicada (doscientos noventa y nueve versos): El
-Ladrón Fantasma, Demian, Õdế Odýnẽs, Isis sin Velo, La Casa de Dulce, La
-Rueda de la Vida. Una con letra migrada: La Voz del Desierto. Dos con
-paquete listo sin generar: Philémōn y Saint-Germain. Dos instrumentales:
-Preludio (con dirección) y Postludio (sin ella). Una sola pista sin texto de
-ninguna clase: El Sueño de Avalón.
+Estado del índice maestro al diecinueve de agosto: seis piezas con letra
+publicada (doscientos noventa y nueve versos): El Ladrón Fantasma, Demian,
+Õdế Odýnẽs, Isis sin Velo, La Casa de Dulce, La Rueda de la Vida. Una con
+letra migrada: La Voz del Desierto. Dos con paquete listo sin generar:
+Philémōn y Saint-Germain. Dos instrumentales: Preludio (con dirección) y
+Postludio (sin ella). Una sola pista sin texto de ninguna clase: El Sueño de
+Avalón.
+
+**Actualización posterior, con base en `letras/`:** las doce pistas tienen ya
+algún texto en `letras/`, incluidas Preludio y Postludio (instrumentales con
+metatags de dirección, sin letra cantada, consistente con su estado). El
+Sueño de Avalón (9) ya no está sin texto de ninguna clase: existe
+`letras/09_ElSuenoDeAvalon_letra_v2_VIGENTE.txt`, un borrador completo con
+dedicatoria al padre. Sigue siendo VIGENTE, no PUBLICADA: el roadmap del
+índice maestro («borrador pendiente») no queda contradicho, solo adelantado.
+Philémōn (4) y Saint-Germain (5) también tienen ya letra VIGENTE completa en
+`letras/` (v4 y v8 respectivamente), más allá de lo que el índice maestro
+registraba como «paquete listo».
