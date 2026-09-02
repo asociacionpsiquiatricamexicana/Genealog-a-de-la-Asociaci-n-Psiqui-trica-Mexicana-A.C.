@@ -136,3 +136,33 @@ Ninguna de estas nueve pistas tiene todavía Style ni Exclude compuestos
 (salvo las cuatro de la primera entrega, cuyos Style/Exclude siguen
 vigentes pero pueden no corresponder ya a la letra más reciente si esta
 entrega la reemplazó). Pendiente de encargo explícito.
+
+## Revisión de Style/Exclude contra las letras más recientes
+
+Las cuatro pistas con Style/Exclude (02, 06, 08, 11) recibieron después una
+letra más reciente (v4 en las cuatro). Se revisó cada Style contra las notas
+de dirección que la letra v4 trae incorporadas, cuando las trae:
+
+- **El Ladrón Fantasma:** discrepancia real. El Style v1 describía un
+  arreglo noir disperso; la letra v4 trae un arreglo de banda completa
+  (bajo fingerstyle, batería de rock a medio tiempo, solo de guitarra,
+  clavecín, mellotron). Reescrito como v2; v1 archivado.
+- **Isis sin Velo:** discrepancia puntual. El Style v1 decía «Harp»; la
+  letra v4 especifica «harpsichord ostinato» en su propia intro —
+  instrumentos distintos. Corregido en v2; v1 archivado.
+- **La Rueda de la Vida:** discrepancia real y mayor. El Style v1 describía
+  un arreglo orquestal (piano de cola, cuerdas, glockenspiel, timbal); la
+  letra v4 trae un arreglo de rock indie con guitarra eléctrica y delay de
+  cinta. Reescrito como v2; v1 archivado.
+- **Õdế Odýnẽs:** sin discrepancia detectable, pero tampoco verificado a
+  fondo. La letra v4 no trae ninguna nota de dirección propia (llegó sin
+  metatags, ver su propia cabecera), así que no hay con qué contrastar el
+  Style instrumento por instrumento; el tema general (vals, clavecín,
+  tumbas) sigue siendo coherente con el Style existente. Se dejó sin
+  cambios. Si se le añaden metatags a esta letra más adelante, revisar el
+  Style contra ellos.
+
+El Exclude de las cuatro pistas no cambió: la bifurcación por pista de
+`album-in-absentia.md` §3 depende del género y del contenido temático, no
+de la instrumentación concreta, y ninguna letra nueva contradice esas
+reglas.
