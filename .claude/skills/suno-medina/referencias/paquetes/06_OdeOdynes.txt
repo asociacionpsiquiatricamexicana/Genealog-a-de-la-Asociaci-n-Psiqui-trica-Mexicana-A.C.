@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 06_OdeOdynes_letra_v4_VIGENTE.txt · 06_OdeOdynes_style_v1_VIGENTE.txt · 06_OdeOdynes_exclude_v1_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Gothic rock waltz with chamber pop elegance, lugubrious and tender, bittersweet warmth inside the darkness.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, noir phrasing, layered harmonies.
@@ -15,19 +15,15 @@ Hook-driven chorus with warm gothic lift, mercury-mirror shimmer.
 Gradual outro fade on a resolving waltz chord.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no 4/4 time, no straight beat, no darkwave, no drum machine, no epic swells,
 no hall reverb, no room reverb, no gothic romance,
 no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 Doce cuentos tejiste
 en un vals de sombras;
@@ -111,3 +107,8 @@ Mientras tanto, escribo,
 y el vals continúa,
 verso por verso,
 hacia el amanecer.
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

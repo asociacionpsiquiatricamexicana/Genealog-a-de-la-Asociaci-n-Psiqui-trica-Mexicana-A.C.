@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 01_Preludio_letra_v3_VIGENTE.txt · 01_Preludio_style_v1_VIGENTE.txt · 01_Preludio_exclude_v1_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Instrumental indie folk overture, wistful and pastoral, bittersweet calm before the album begins.
 No vocals.
@@ -15,17 +15,13 @@ Syncopated main theme over a steady thumb-picked bass.
 Gradual outro, melody slows, resolves to G major, birdsong fades last.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocals, no darkwave, no drum machine, no epic swells, no hall reverb,
 no room reverb, no gothic romance, no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [fingerstyle acoustic guitar enters, alternating bass pattern]
@@ -38,3 +34,8 @@ LYRICS (campo Lyrics de Suno)
 [Outro]
 [melody slows down, final G major chord rings out]
 [birds chirping fades to silence]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

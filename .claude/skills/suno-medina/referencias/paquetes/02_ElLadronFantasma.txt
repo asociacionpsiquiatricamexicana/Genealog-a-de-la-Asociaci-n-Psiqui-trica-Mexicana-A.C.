@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 02_ElLadronFantasma_letra_v4_VIGENTE.txt · 02_ElLadronFantasma_style_v2_VIGENTE.txt · 02_ElLadronFantasma_exclude_v1_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Gothic rock with progressive indie rock elegance, sly and defiant, bittersweet swagger with some hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, sly restrained phrasing, layered harmonies.
@@ -15,18 +15,14 @@ Hook-driven chorus with soaring defiant lift, expressive tube-saturated guitar s
 Meditative outro, brief shift to the relative major and back to the tonic, clean resolved ending.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
 no gothic romance, no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [slow fade in, clean lead guitar riffs, fingerstyle electric bass with a progressive hypnotic groove, half-time rock drums, no vocals, extended instrumental opening, seamless transition to the first verse]
@@ -131,3 +127,8 @@ para ser libre en su esencia…
 
 [Fade Out]
 [gradual fade driven by the sustain of the final chord, smooth even taper down to full silence]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

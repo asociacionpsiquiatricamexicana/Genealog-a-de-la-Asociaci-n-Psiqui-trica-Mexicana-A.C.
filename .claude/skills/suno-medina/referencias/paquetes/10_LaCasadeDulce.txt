@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 10_LaCasadeDulce_letra_v3_VIGENTE.txt · 10_LaCasadeDulce_style_v4_VIGENTE.txt · 10_LaCasadeDulce_exclude_v4_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Gothic rock with warm fireside folk intimacy, tender and courageous, bittersweet rescue with some hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
@@ -15,24 +15,15 @@ Hook-driven chorus with warm anthemic crescendo, stacked harmonies, upright bass
 Serene resolved coda, gentle fingerpicked guitar and heartbeat pulse, decisive clean ending, no fade.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no falsetto, no de-essed, no darkwave, no drum machine, no epic swells,
 no hall reverb, no room reverb, no gothic romance, no professional,
 no high-quality, no amazing
 
-[«falsetto» y «de-essed» agregados aquí en negativo porque la letra v3 de
-esta pista los usa en positivo en sus propios corchetes, lo cual incumple
-checklist-pregeneracion.md §7 (ver PENDIENTE.md); usar «airy high register»
-en el Style, no «falsetto», por §2.4 del SKILL.md.]
-
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [Fingerpicked acoustic guitar intro from silence, distant music box glints, soft floor-tom heartbeat entering gently, warm and intimate, smooth build, no vocals]
@@ -153,3 +144,9 @@ con anhelo nos esperan…
 [Short instrumental outro, fingerpicked guitar and soft floor-tom heartbeat, ending on a single held resolved chord, decisive clean ending, no fade, no vocals]
 
 [End]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]
+- [«falsetto» y «de-essed» agregados aquí en negativo porque la letra v3 de esta pista los usa en positivo en sus propios corchetes, lo cual incumple checklist-pregeneracion.md §7 (ver PENDIENTE.md); usar «airy high register» en el Style, no «falsetto», por §2.4 del SKILL.md.]

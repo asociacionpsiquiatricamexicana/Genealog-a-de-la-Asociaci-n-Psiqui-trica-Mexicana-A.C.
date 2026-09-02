@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 12_Postludio_letra_v2_VIGENTE.txt · 12_Postludio_style_v1_VIGENTE.txt · 12_Postludio_exclude_v1_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Cinematic indie rock overture, solemn and cathartic, bittersweet rebirth resolving into hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
@@ -15,18 +15,14 @@ Hook-driven chorus with cathartic lift, full ensemble bloom.
 Melancholic outro, rhythm decelerating, clean guitar arpeggios and sparse piano fade last.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
 no gothic romance, no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [Instrumental: extended, voiceless, led by lead electric guitar, clean-picked eighth-note arpeggios; acoustic guitar, rhythmic soft melodic strumming; electric bass, fingerpicked, pulsing groove; rock drums, dry, tight snares, building drive; harpsichord, subtle sparse accents; grand piano, subtle E minor chord progressions; no vocals; elegant seamless transition into Verse 1]
@@ -125,3 +121,8 @@ que siempre te tuviste en ti.
 [Outro]
 [Instrumental: melancholic rhythm gradually decelerating, clean guitar arpeggios and sparse piano, elegant slow fade-out into silence, no vocals]
 [End]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

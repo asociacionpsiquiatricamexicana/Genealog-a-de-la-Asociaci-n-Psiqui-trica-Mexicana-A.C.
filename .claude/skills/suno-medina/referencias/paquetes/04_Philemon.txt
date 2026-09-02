@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 04_Philemon_letra_v5_VIGENTE.txt · 04_Philemon_style_v4_VIGENTE.txt · 04_Philemon_exclude_v3_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Gothic rock with chamber pop grandeur, oneiric and reverent, bittersweet revelation with some hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
@@ -15,20 +15,14 @@ Hook-driven chorus led by grand piano, dark saxophone answering, drums swelling 
 Mournful outro, tape delay decays into silence.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
 no gothic romance, no professional, no high-quality, no amazing
 
-[saxophone NO va en este Exclude: album-in-absentia.md §3 lo pide en positivo para esta pista.]
-
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [fade in, clean electric guitar arpeggio builds with subtle tape delay, warm analog pad opens underneath, grand piano enters, wide controlled stereo, no vocals, seamless transition to the first verse]
@@ -133,3 +127,9 @@ yo soy ustedes…
 
 [Fade Out]
 [polished gradual fade over the sustained final chord, tape delay decays, smooth even taper down to silence]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]
+- [saxophone NO va en este Exclude: album-in-absentia.md §3 lo pide en positivo para esta pista.]

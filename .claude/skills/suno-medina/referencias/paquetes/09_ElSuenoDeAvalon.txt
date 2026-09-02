@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 09_ElSuenoDeAvalon_letra_v3_VIGENTE.txt · 09_ElSuenoDeAvalon_style_v1_VIGENTE.txt · 09_ElSuenoDeAvalon_exclude_v1_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Chamber pop with indie folk warmth, tender and reverent, bittersweet farewell with some hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
@@ -15,22 +15,14 @@ Hook-driven chorus with warm devotional lift, borrowed major-relative warmth.
 Gradual outro fade, tender and resolved, strings sustain last.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
 no gothic romance, no professional, no high-quality, no amazing
 
-[gothic rock: la doctrina de album-in-absentia.md §3 no menciona esta pista;
-se dejó fuera del Exclude por prudencia (ni vetado ni pedido en positivo),
-en vez de asumir cuál de los dos aplica.]
-
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 Padre hechicero,
@@ -145,3 +137,9 @@ Duerme…
 Yo remo…
 
 [Outro]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]
+- [gothic rock: la doctrina de album-in-absentia.md §3 no menciona esta pista; se dejó fuera del Exclude por prudencia (ni vetado ni pedido en positivo), en vez de asumir cuál de los dos aplica.]

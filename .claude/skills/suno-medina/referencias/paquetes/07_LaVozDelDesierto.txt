@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 07_LaVozDelDesierto_letra_v3_VIGENTE.txt · 07_LaVozDelDesierto_style_v2_VIGENTE.txt · 07_LaVozDelDesierto_exclude_v2_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Ceremonial desert folk with modal drone, parched and visionary, bittersweet resolve with some hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
@@ -15,18 +15,14 @@ Hook-driven chorus with drone opening wide, ceremonial drums swelling, layered h
 Ceremonial climax outro, drone and strings at their widest, long reverb tail decays into silence.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
 no gothic romance, no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [fade in, sustained drone bed emerges from silence, tanpura-like shimmer widens, deep frame drum marks a slow heartbeat, ney line enters far off, no vocals, seamless transition to the first verse]
@@ -142,3 +138,8 @@ que la cruza…
 [final chord rings out on sustained strings, frame drum lands once, drone fades last]
 [Fade Out]
 [polished gradual fade over the sustained final chord, long reverb tail decays into silence, smooth even taper]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

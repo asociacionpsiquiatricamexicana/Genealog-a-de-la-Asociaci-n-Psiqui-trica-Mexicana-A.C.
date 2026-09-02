@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 08_IsisSinVelo_letra_v4_VIGENTE.txt · 08_IsisSinVelo_style_v2_VIGENTE.txt · 08_IsisSinVelo_exclude_v1_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Luminous chamber pop with indie folk warmth, tender and reverent, bittersweet awe resolving into gratitude.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, soft high register, layered harmonies.
@@ -15,19 +15,15 @@ Hook-driven chorus with luminous warmth, borrowed major-relative lift.
 Gradual outro fade on a sustained warm pad.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no gothic rock, no punchy drums, no aggressive, no darkwave, no drum machine,
 no epic swells, no hall reverb, no room reverb, no gothic romance,
 no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro - Instrumental]
 [Silent start; slow harpsichord ostinato, subtle pads; gradual crescendo]
@@ -108,3 +104,8 @@ y el faro de mi destino...
 [Outro - Instrumental]
 
 [End]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

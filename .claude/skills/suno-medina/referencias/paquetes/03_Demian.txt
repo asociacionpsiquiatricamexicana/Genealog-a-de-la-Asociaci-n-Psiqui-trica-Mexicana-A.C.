@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 03_Demian_letra_v2_VIGENTE.txt · 03_Demian_style_v2_VIGENTE.txt · 03_Demian_exclude_v2_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Gothic rock with indietronica pulse, defiant and cathartic, bittersweet rebellion with some hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, soaring high register, layered harmonies.
@@ -15,18 +15,14 @@ Hook-driven chorus with soaring cathartic lift, drums swelling into full drive.
 Intimate outro, vocal tail resolves, mellotron chime fades last.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
 no gothic romance, no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [fade in, clean arpeggiated guitar builds, warm pads open underneath, atmospheric cinematic build, no vocals, seamless transition to the first verse]
@@ -135,3 +131,8 @@ Dime…
 
 [Fade Out]
 [polished gradual fade over the sustained final chord, delay dissolving, smooth even taper down to silence]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

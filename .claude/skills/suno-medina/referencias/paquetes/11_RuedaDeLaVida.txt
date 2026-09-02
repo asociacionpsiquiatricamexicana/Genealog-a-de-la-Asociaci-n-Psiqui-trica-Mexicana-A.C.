@@ -3,7 +3,7 @@ Paquete para Suno v5.5
 Fuentes: 11_RuedaDeLaVida_letra_v4_VIGENTE.txt · 11_RuedaDeLaVida_style_v2_VIGENTE.txt · 11_RuedaDeLaVida_exclude_v1_VIGENTE.txt
 
 ════════════════════════════════════════
-STYLE (campo Style de Suno)
+STYLE (campo Style de Suno — pegar tal cual)
 ════════════════════════════════════════
 Anthemic indie rock with cinematic lift, triumphant and resolved, bittersweet awe giving way to hope.
 Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, soaring high register, layered harmonies.
@@ -15,19 +15,15 @@ Hook-driven chorus with triumphant lift, full band bloom, stacked vocal doubles 
 Firm resolved ending on the tonic chord, natural release, no fade.
 
 ════════════════════════════════════════
-EXCLUDE (campo Exclude / negative prompt)
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
 ════════════════════════════════════════
-[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
-en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
-este Exclude en Suno; ver referencias/PENDIENTE.md.]
-
 no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
 no gothic rock, no darkwave, no drum machine, no epic swells, no hall reverb,
 no room reverb, no minor key throughout, no fade-out, no gothic romance,
 no professional, no high-quality, no amazing
 
 ════════════════════════════════════════
-LYRICS (campo Lyrics de Suno)
+LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
 [Arpeggiated clean electric guitar emerging from near-silence, steady bass, light percussion, analog pad, no vocals]
@@ -101,3 +97,8 @@ gira la rueda de la vida…
 
 [End]
 [Final guitar chord ringing out, tape delay decay, wide controlled stereo, natural release]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]
