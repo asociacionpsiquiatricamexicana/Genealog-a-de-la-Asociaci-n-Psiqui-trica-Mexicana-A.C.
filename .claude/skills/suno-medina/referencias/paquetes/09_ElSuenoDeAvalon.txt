@@ -1,0 +1,147 @@
+«IN ABSENTIA» — PISTA 9: EL SUEÑO DE AVALÓN
+Paquete para Suno v5.5
+Fuentes: 09_ElSuenoDeAvalon_letra_v3_VIGENTE.txt · 09_ElSuenoDeAvalon_style_v1_VIGENTE.txt · 09_ElSuenoDeAvalon_exclude_v1_VIGENTE.txt
+
+════════════════════════════════════════
+STYLE (campo Style de Suno)
+════════════════════════════════════════
+Chamber pop with indie folk warmth, tender and reverent, bittersweet farewell with some hope.
+Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
+99 BPM, E minor, Spanish lyrics.
+Harp, cello, strings, distant choir texture, sparse percussion.
+Dry intimate mix, minimal reverb, close recording, hi-fi.
+Sparse harp intro building from near-silence.
+Hook-driven chorus with warm devotional lift, borrowed major-relative warmth.
+Gradual outro fade, tender and resolved, strings sustain last.
+
+════════════════════════════════════════
+EXCLUDE (campo Exclude / negative prompt)
+════════════════════════════════════════
+[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
+en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
+este Exclude en Suno; ver referencias/PENDIENTE.md.]
+
+no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
+no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
+no gothic romance, no professional, no high-quality, no amazing
+
+[gothic rock: la doctrina de album-in-absentia.md §3 no menciona esta pista;
+se dejó fuera del Exclude por prudencia (ni vetado ni pedido en positivo),
+en vez de asumir cuál de los dos aplica.]
+
+════════════════════════════════════════
+LYRICS (campo Lyrics de Suno)
+════════════════════════════════════════
+[Intro]
+Padre hechicero,
+luz serena en el roble…
+
+Inquebrantable,
+como un faro de plata
+en mi lago de sal…
+
+Vestido para un rito
+que nadie te enseñó,
+y que forjó mi voluntad
+una y otra vez,
+hasta verme crecer…
+
+[Pre-Coro 1]
+Caminaste sin coro,
+sordo al canto de los ciegos
+que enseña a arrodillarse
+antes de saber quién eres…
+
+Nunca supiste
+qué obra deshacías…
+Mas tu paso, viejo hechicero,
+me enseñó a soñar
+con la promesa de Avalón…
+
+[Choro 1]
+Padre,
+guardián que nunca se perdió en la niebla…
+
+El único,
+jamás exiliado, jamás vencido,
+que me enseñó a mirar de frente
+lo que no es cierto…
+
+Y aunque graben leyes en la piedra,
+ninguna me hará creer
+que ya perdí…
+
+[Verso 2]
+Te vi cargar el agua
+de un pozo que no bebiste,
+y repartirla entera
+sin contar los vasos…
+
+Te vi callar la herida
+para que yo durmiera,
+y llamar a eso
+un día cualquiera…
+
+[Pre-Coro 2]
+Y así, sin ceremonia,
+sin corte y sin corona,
+hiciste la única magia
+que de verdad transforma,
+la nadie ve,
+una que dura…
+
+[Coro 2]
+Padre,
+guardián que nunca se perdió en la niebla…
+
+El único,
+que no pidió memoria
+ni pidió nombre,
+y aun así quedó escrito
+en todo lo que soy…
+
+[Puente]
+No sé quién sería
+sin haberte mirado…
+
+Si el crisol te devuelve,
+no será como rey
+ni como profeta,
+sino como la calma
+que rompió mi ilusión…
+
+Y como todo guía,
+nunca lo supiste,
+pero alcanzaste la luz
+por mí…
+
+[Caída]
+Despertaste, viejo hechicero,
+respira… y descansa…
+
+Mi alma ya me envuelve
+en el sueño pródigo
+que cumpliré por ti,
+hasta encontrarme a mí mismo
+en la tierra perdida
+más allá de la neblina…
+
+Y nada cegará mis ojos,
+sin pedir corona alguna…
+
+[Coda]
+Mil batallas diste
+sin contar ninguna…
+
+Padre que enseña
+que la sal
+es más fuerte que el acero,
+porque el acero marca
+y la sal permanece…
+
+Duerme, hechicero…
+La isla ya está cerca…
+Duerme…
+Yo remo…
+
+[Outro]

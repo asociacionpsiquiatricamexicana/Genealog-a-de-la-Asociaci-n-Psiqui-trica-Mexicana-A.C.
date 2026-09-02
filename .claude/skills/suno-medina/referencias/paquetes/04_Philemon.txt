@@ -1,0 +1,135 @@
+«IN ABSENTIA» — PISTA 4: PHILÉMŌN
+Paquete para Suno v5.5
+Fuentes: 04_Philemon_letra_v5_VIGENTE.txt · 04_Philemon_style_v4_VIGENTE.txt · 04_Philemon_exclude_v3_VIGENTE.txt
+
+════════════════════════════════════════
+STYLE (campo Style de Suno)
+════════════════════════════════════════
+Gothic rock with chamber pop grandeur, oneiric and reverent, bittersweet revelation with some hope.
+Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
+129 BPM, D minor, half-time feel, Spanish lyrics.
+Clean electric guitar with tape delay, grand piano, dark saxophone, detuned synth drone, brushed percussion, acoustic strumming.
+Dry intimate mix, minimal reverb, close recording, hi-fi.
+Sparse guitar-and-pad intro building from near-silence, wide controlled stereo.
+Hook-driven chorus led by grand piano, dark saxophone answering, drums swelling without hardening.
+Mournful outro, tape delay decays into silence.
+
+════════════════════════════════════════
+EXCLUDE (campo Exclude / negative prompt)
+════════════════════════════════════════
+[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
+en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
+este Exclude en Suno; ver referencias/PENDIENTE.md.]
+
+no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
+no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
+no gothic romance, no professional, no high-quality, no amazing
+
+[saxophone NO va en este Exclude: album-in-absentia.md §3 lo pide en positivo para esta pista.]
+
+════════════════════════════════════════
+LYRICS (campo Lyrics de Suno)
+════════════════════════════════════════
+[Intro]
+[fade in, clean electric guitar arpeggio builds with subtle tape delay, warm analog pad opens underneath, grand piano enters, wide controlled stereo, no vocals, seamless transition to the first verse]
+
+[Verse 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd intimacy, restrained and oneiric, dry centered, half-time feel, guitar arpeggio stays sparse, seamless transition to the chorus]
+En un sueño olvidado
+crucé umbrales
+con alas de carmín…
+
+Y me perdí
+entre el abismo y la tierra,
+y, de pronto, desperté…
+
+Al abrir los párpados,
+supe que debía revelar al mundo
+lo que vi en aquel limbo…
+
+Y, para encomienda tan alta,
+tomé un nuevo nombre…
+
+uno que no diré,
+pues ya lo saben
+quienes deben saberlo…
+
+[Chorus 1]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, grand piano takes the lead, chiming electric guitars widen, drums swell into a fuller lift, dark saxophone answers the piano, layered harmonies widen, seamless transition to the second verse]
+Así,
+al piano de cola,
+cada noche, en gala,
+voy guiando el descenso
+de los soñadores
+con arias divinas,
+hasta el fondo de su alma…
+
+Y, sobre todo, a quienes,
+con miedo y temblor,
+se atreven a descifrar en silencio
+quiénes son de verdad…
+
+[Verse 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained, dry centered, brushed percussion, delicate acoustic strumming, seamless transition to the final chorus]
+Y, al volver de aquel umbral,
+comprenden
+que en cada senda de este ciclo
+puede nacer la luz…
+
+Porque, aun donde acecha la perdición,
+siempre habrá un sendero abierto
+que los conduzca hacia lo divino…
+
+[Chorus 2]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, grand piano returns brighter, chiming guitars shimmer, drums lift without hardening, layered harmonies widen, seamless transition to the bridge]
+Y al piano de cola,
+en cada noche
+y al despuntar,
+comprenden que,
+aunque la vida
+se enrede en mil laberintos,
+siempre arderá una estrella
+que los guíe
+hacia el amanecer…
+
+[Bridge]
+[no vocals, clean electric guitar solo, slow build, widening stereo, detuned synth drone deepens, dark saxophone answers, sidechain pulse underneath, two-bar instrumental settle before the vocal returns, seamless transition to the third verse]
+
+[Verse 3]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, bittersweet reflective, dry centered, airy register, seamless transition to the interlude]
+Y de la ruina
+surgirá la llama,
+capaz de abrazar
+la vastedad del mundo…
+
+Y su luz
+no se extinguirá jamás…
+[Interlude]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, clean electric guitar counterline, restrained synth, dark saxophone accents, melancholic lift, dry centered, warm tape echo, seamless transition to the breakdown]
+
+Ya no llevarán máscaras,
+porque las cadenas
+que creían arrastrar
+nunca existieron…
+
+[Breakdown]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, dry centered, sub-heavy bass, muted acoustic guitars, subtle tape wobble, dark saxophone, melancholic tension, seamless transition to the outro]
+Recuérdenme
+como el espejo fiel
+de aquello en que algún día se convertirán,
+y de lo que alguna vez negaron ser…
+
+[Outro]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, fully loosened restraint, close mic'd, mournful tone, gentle tape delay, firm low end, seamless transition to the ending]
+Ustedes son yo,
+yo soy ustedes…
+
+Ustedes son yo,
+yo soy ustedes…
+[soft main-melody oohs]
+
+[Ending]
+[final piano chord rings out, clean guitar arpeggio resolves, saxophone breath fades last]
+
+[Fade Out]
+[polished gradual fade over the sustained final chord, tape delay decays, smooth even taper down to silence]

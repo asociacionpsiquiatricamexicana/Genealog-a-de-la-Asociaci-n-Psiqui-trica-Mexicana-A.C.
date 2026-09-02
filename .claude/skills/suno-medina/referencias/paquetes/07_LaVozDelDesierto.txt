@@ -1,0 +1,144 @@
+«IN ABSENTIA» — PISTA 7: LA VOZ DEL DESIERTO
+Paquete para Suno v5.5
+Fuentes: 07_LaVozDelDesierto_letra_v3_VIGENTE.txt · 07_LaVozDelDesierto_style_v2_VIGENTE.txt · 07_LaVozDelDesierto_exclude_v2_VIGENTE.txt
+
+════════════════════════════════════════
+STYLE (campo Style de Suno)
+════════════════════════════════════════
+Ceremonial desert folk with modal drone, parched and visionary, bittersweet resolve with some hope.
+Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
+60 BPM, A minor, Spanish lyrics.
+Sustained drone bed, tanpura-like shimmer, deep frame drum, distant ney, bowed strings in modal figures, distant duduk, sub-heavy bass.
+Dry intimate mix, minimal reverb, close recording, hi-fi.
+Sparse drone-and-frame-drum intro building from near-silence.
+Hook-driven chorus with drone opening wide, ceremonial drums swelling, layered harmonies.
+Ceremonial climax outro, drone and strings at their widest, long reverb tail decays into silence.
+
+════════════════════════════════════════
+EXCLUDE (campo Exclude / negative prompt)
+════════════════════════════════════════
+[NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido
+en el documento fuente que llegó a esta skill. Insertar aquí antes de usar
+este Exclude en Suno; ver referencias/PENDIENTE.md.]
+
+no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
+no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
+no gothic romance, no professional, no high-quality, no amazing
+
+════════════════════════════════════════
+LYRICS (campo Lyrics de Suno)
+════════════════════════════════════════
+[Intro]
+[fade in, sustained drone bed emerges from silence, tanpura-like shimmer widens, deep frame drum marks a slow heartbeat, ney line enters far off, no vocals, seamless transition to the first verse]
+[Verse 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained and parched, dry centered, steady locked pulse, drone stays bare, seamless transition to the pre-chorus]
+Fui arrojado
+a un mar de dunas mudas…
+
+Y desperté intacto,
+como un prisma
+en la ceniza de las horas…
+
+Cargo el peso
+de un linaje forzado
+que se rinde ante mi visión…
+[Pre-Chorus 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, bowed strings enter in modal figures, frame drums thicken, seamless transition to the chorus]
+Y rompo el compás
+del reloj del imperio,
+esa jaula de arena
+que nos mide y nos gasta,
+levantada por quien teme
+lo que no puede contar…
+[Chorus 1]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring chorus end, drone opens wide, sub-heavy bass enters, ceremonial drums swell, layered harmonies widen, seamless transition to the second verse]
+Soy el durmiente,
+quebrador de senderos,
+el que camina despierto
+por la noche del mundo…
+
+Y no temo al oráculo,
+porque el oráculo
+solo repite
+lo que ya nos quitaron…
+[Verse 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained visionary, dry centered, instrumentation thins to drone and distant duduk, seamless transition to the pre-chorus]
+Vi mil arenas
+caer sobre mi nombre,
+y en todas ellas
+la misma mano
+alzándose otra vez…
+
+Vi el después y el antes
+tenderse como un llano,
+y comprendí
+que nadie los separa…
+[Pre-Chorus 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, strings tighten, frame drums build with slow rising accents, seamless transition to the final chorus]
+Soy un hijo de agua
+que creció en el desierto,
+y por eso sé
+que la sed no es castigo,
+sino la forma
+que el tiempo toma
+cuando aún crees en él…
+[Chorus 2]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring chorus end, full ceremonial ensemble, layered harmonies widen, seamless transition to the bridge]
+Soy el durmiente,
+quebrador de senderos,
+y ya no cuento los pasos
+que faltan para el alba…
+
+Porque el alba no llega,
+el alba se camina…
+[Bridge]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained confession, dry centered, drone drops away, single duduk answers, sparse percussion marks slow steps, seamless transition to the breakdown]
+¿Qué sería el mañana
+si dejara de esperarlo?
+
+Nadie me recuerda todavía,
+y aun así ya soy
+el fuego que calcina
+a quien fui…
+
+Alcanzaré la luz
+aunque muera antes,
+porque la luz no está adelante,
+está debajo…
+[Breakdown]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender restrained, dry centered, sub-heavy bass returns, strings sustain, tension held without release, seamless transition to the outro]
+Y la voluntad que desenterré
+respira,
+y a todos envuelve…
+
+Es la chispa sagrada
+que no cabe en profecía,
+ni la sostiene
+libro, casa ni destino…
+[Outro]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, fully loosened restraint, ceremonial climax, firm low end, drone and strings at their widest, seamless transition to the ending]
+Soy el durmiente,
+mil futuros tengo
+y tuve…
+
+Y al abrir los ojos
+lo entendí de golpe,
+sin dolor y sin pelea,
+como quien suelta un arma
+que jamás pesó…
+
+No hay reloj que me deba nada,
+no hay mañana que me aguarde,
+no hay ayer del cual huir…
+
+Porque el tiempo
+no existe…
+
+Solo existe la arena,
+y la mano
+que la cruza…
+[soft wordless oohs, breath-supported endings]
+[Ending]
+[final chord rings out on sustained strings, frame drum lands once, drone fades last]
+[Fade Out]
+[polished gradual fade over the sustained final chord, long reverb tail decays into silence, smooth even taper]
