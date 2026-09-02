@@ -1,6 +1,7 @@
 «IN ABSENTIA» — PISTA 12: POSTLUDIO
 Paquete para Suno v5.5
 Fuentes: 12_Postludio_letra_v2_VIGENTE.txt · 12_Postludio_style_v1_VIGENTE.txt · 12_Postludio_exclude_v1_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
 
 ════════════════════════════════════════
 STYLE (campo Style de Suno — pegar tal cual)
@@ -25,13 +26,12 @@ no gothic romance, no professional, no high-quality, no amazing
 LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
-[Instrumental: extended, voiceless, led by lead electric guitar, clean-picked eighth-note arpeggios; acoustic guitar, rhythmic soft melodic strumming; electric bass, fingerpicked, pulsing groove; rock drums, dry, tight snares, building drive; harpsichord, subtle sparse accents; grand piano, subtle E minor chord progressions; no vocals; elegant seamless transition into Verse 1]
 
 [Verse 1]
 Nacimos en un universo vasto y sordo,
 uno que nos vio llegar con llanto y temor
 y encendió una angustia en el cuerpo,
-que desde entonces ansía volver al origen.
+que desde entonces ansía volver al origen…
 
 [Pre-Chorus]
 Y en el nadir más doliente
@@ -40,19 +40,19 @@ que al alba abre tus párpados
 y te despierta de aquel sueño inconcluso
 con un canto sereno y cálido
 que te susurra el llamado
-de la aventura.
+de la aventura…
 
 [Chorus]
 Lo que negaste quedó atrás,
-ya no eres lo que te hirió;
-el destino no es cadena:
+ya no eres lo que te hirió…
+el destino no es cadena…
 naciste con las llaves para liberarte
 y con el mapa
 que, al recorrer sus sendas,
 puede llevarte a la muerte
 y hacerte renacer
 sin miedo de mostrar un nuevo rostro,
-una de tus mil máscaras.
+una de tus mil máscaras…
 
 [Post-Chorus]
 En este viaje vamos acompañados
@@ -61,7 +61,7 @@ del calor de cada amor
 y las lágrimas de cada tragedia,
 heridas que dejamos abiertas
 y hoy son armadura y espada,
-pues tú eres ellas, y ellas son tú.
+pues tú eres ellas, y ellas son tú…
 
 [Verse 2]
 Cada recuerdo del espíritu
@@ -73,42 +73,42 @@ de toda la humanidad,
 tejidos como hebras
 en el giro de una rueda
 que da vida a quienes emergen de la nada
-y al vacío, un día, han de volver.
+y al vacío, un día, han de volver…
 
 [Pre-Chorus]
 La maravilla de existir
 se reviste de crueldad,
 pero ni ella ni la bondad del corazón
-apagan tu chispa interior.
+apagan tu chispa interior…
 En una mano cargas soles,
 en la otra, lunas,
 y ambas dan sentido
 al yo que siempre estuvo
-dentro de ti.
+dentro de ti…
 
 [Chorus]
 Lo que negaste quedó atrás,
-ya no eres lo que te hirió;
-el destino no es cadena:
+ya no eres lo que te hirió…
+el destino no es cadena…
 naciste con las llaves para liberarte
 y con el mapa
 que, al recorrer sus sendas,
 puede llevarte a la muerte
 y hacerte renacer
 sin miedo de mostrar un nuevo rostro,
-una de tus mil máscaras.
+una de tus mil máscaras…
 
 [Bridge]
-Madura como un árbol:
+Madura como un árbol…
 el follaje rozando el cielo,
-las raíces bebiendo del abismo.
-Ahora eres libre en tu esencia.
+las raíces bebiendo del abismo…
+Ahora eres libre en tu esencia…
 
 [Coda]
 Paso a paso vas marchando,
-ya con los ojos sin vendas.
+ya con los ojos sin vendas…
 Recuerda que viniste de la nada
-y a la nada has de volver.
+y a la nada has de volver…
 Lo que llamas locura o pasión
 son signos y símbolos
 escritos en los mitos y leyendas de antaño,
@@ -116,11 +116,20 @@ códices que debes leer,
 pues trazan el mapa
 que te lleva al lugar
 donde habrás de descubrir
-que siempre te tuviste en ti.
+que siempre te tuviste en ti…
 
 [Outro]
-[Instrumental: melancholic rhythm gradually decelerating, clean guitar arpeggios and sparse piano, elegant slow fade-out into silence, no vocals]
 [End]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] Instrumental: extended, voiceless, led by lead electric guitar, clean-picked eighth-note arpeggios; acoustic guitar, rhythmic soft melodic strumming; electric bass, fingerpicked, pulsing groove; rock drums, dry, tight snares, building drive; harpsichord, subtle sparse accents; grand piano, subtle E minor chord progressions; no vocals; elegant seamless transition into Verse 1
+[Outro] Instrumental: melancholic rhythm gradually decelerating, clean guitar arpeggios and sparse piano, elegant slow fade-out into silence, no vocals
 
 ════════════════════════════════════════
 NOTAS — leer antes de generar, NO forman parte de ningún campo

@@ -1,6 +1,7 @@
 «IN ABSENTIA» — PISTA 10: LA CASA DE DULCE
 Paquete para Suno v5.5
 Fuentes: 10_LaCasadeDulce_letra_v3_VIGENTE.txt · 10_LaCasadeDulce_style_v4_VIGENTE.txt · 10_LaCasadeDulce_exclude_v4_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
 
 ════════════════════════════════════════
 STYLE (campo Style de Suno — pegar tal cual)
@@ -26,113 +27,103 @@ no high-quality, no amazing
 LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
-[Fingerpicked acoustic guitar intro from silence, distant music box glints, soft floor-tom heartbeat entering gently, warm and intimate, smooth build, no vocals]
 
 [Verse 1]
-[Ethereal countertenor falsetto, pure clean head voice; intimate, warm fireside mood; smooth legato, stepwise melodic phrasing; sung, sustained endings, no fry, de-essed clean diction.]
 Nos perdimos, hermana,
 siguiendo migajas,
 esperando que el mañana
-viniera a rescatarnos:
+viniera a rescatarnos…
 la falsa promesa
-del porvenir.
+del porvenir…
 Y así, ciegos,
 llegamos al fondo del monte
 y juntos erramos
-al entrar en la Casa de Dulce:
+al entrar en la Casa de Dulce…
 una mentira más
 que nos alejó de la verdad
-y de la calidez del sol.
+y de la calidez del sol…
 
 [Pre-Chorus]
-[Ethereal countertenor falsetto, clean head voice; rising quiet intensity; mellow piano joining; sung legato, even phrasing; sustained, no fry, de-essed clean diction; brushed drums building softly.]
 Cada uno de sus ladrillos
 nos endulzó hasta perder de vista
-lo que nos unió.
+lo que nos unió…
 Y la bruja, arquitecta de la trampa,
-mala no era:
+mala no era…
 me raptó, mas por ello
 gran lección te dio,
 pues salvarme
 te hizo perder el miedo
-a cruzar el umbral.
+a cruzar el umbral…
 
 [Chorus]
-[Ethereal countertenor falsetto, gently anthemic, warm crescendo, rich stacked harmonies; seamless register blending; brushed drums fuller, upright bass driving; sustained endings, no fry.]
 Hermana, prende el horno,
-mas no el de esta casa:
-enciende el de tu alma.
+mas no el de esta casa…
+enciende el de tu alma…
 Sálvame, que el destino te llama
-y no va a esperar.
+y no va a esperar…
 Y nunca olvides
 que, con paciencia,
-voy contigo;
+voy contigo…
 sé que tu voz y la mía
 se unen en armonía
 para romper toda mentira
 con filo que corta
-hasta el hondón del alma.
+hasta el hondón del alma…
 
 [Verse 2]
-[Ethereal countertenor falsetto, pure clean head voice; intimate, tense, melodic; fingerpicked guitar sparse; sung legato; sustained, no fry, de-essed clean diction.]
 El mal me iba cebando
 para ser un plato más
-de un banquete sin final.
-Pero no te quedaste quieta:
+de un banquete sin final…
+Pero no te quedaste quieta…
 contaste cada latido,
 olvidaste el porvenir,
 y en el ahora, sin aviso,
 me salvaste
 con la chispa que brotó
-de tu alma.
+de tu alma…
 
 [Pre-Chorus]
-[Ethereal countertenor falsetto, clean head voice; tender, rising warmth; mellow piano and music box glints; sung legato, even phrasing; sustained, no fry, de-essed clean diction.]
 Supiste que mi jaula de barro
 nunca tuvo barrotes,
 y yo ya sabía que serías
-mi heroína:
+mi heroína…
 como lo fuiste,
 como lo eres,
-como lo serás.
+como lo serás…
 
 [Chorus]
-[Ethereal countertenor falsetto, fully open, luminous crescendo, rich stacked harmonies; seamless register blending; brushed drums and upright bass at full warmth; sustained endings, no fry.]
 Hermana, ¿ahora lo ves?
 El miedo estuvo y estará,
 pero no congela nuestras manos
-ni calla nuestra voz.
+ni calla nuestra voz…
 Somos libres,
 y no hay bruja ni mal
 que borre quiénes somos
-ni nuestro auténtico hogar:
-el que nos espera en el alba.
+ni nuestro auténtico hogar…
+el que nos espera en el alba…
 
 [Guitar Solo]
-[Instrumental; brief expressive fingerpicked acoustic guitar solo, melodic and nostalgic, mellow piano beneath, rising gently then settling, no vocals]
 
 [Coda]
-[Ethereal countertenor falsetto, clean head voice; serene, resolving; sung with gentle legato, stepwise contours; sustained, no fry, de-essed clean diction.]
 Y así, la Casa de Dulce
 nos enseñó
 que la vida está llena
 de retos e ilusiones,
 y ninguno puede
-contra nuestra sangre:
+contra nuestra sangre…
 si tomas mi mano,
 tomo la tuya
-hasta el final.
+hasta el final…
 
 [Final Coda]
-[Lone fingerpicked guitar and soft floor-tom heartbeat beneath the voice; ethereal countertenor falsetto, very soft, quiet but fully supported, steady airflow, very intimate; each repetition softer, always fully supported; sung legato, no fry.]
-Tú canta;
-yo pienso:
+Tú canta…
+yo pienso…
 tú me salvaste hoy,
-y en el ayer te rescaté;
+y en el ayer te rescaté…
 no nos perdimos en el mañana,
 pues el mañana no existe,
 y no necesitamos más migajas
-para volver a casa.
+para volver a casa…
 Toma mi mano
 y, como hermanos,
 regresemos a nuestro hogar,
@@ -141,9 +132,27 @@ con anhelo nos esperan,
 con anhelo nos esperan…
 
 [Outro]
-[Short instrumental outro, fingerpicked guitar and soft floor-tom heartbeat, ending on a single held resolved chord, decisive clean ending, no fade, no vocals]
 
 [End]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] Fingerpicked acoustic guitar intro from silence, distant music box glints, soft floor-tom heartbeat entering gently, warm and intimate, smooth build, no vocals
+[Verse 1] Ethereal countertenor falsetto, pure clean head voice; intimate, warm fireside mood; smooth legato, stepwise melodic phrasing; sung, sustained endings, no fry, de-essed clean diction.
+[Pre-Chorus] Ethereal countertenor falsetto, clean head voice; rising quiet intensity; mellow piano joining; sung legato, even phrasing; sustained, no fry, de-essed clean diction; brushed drums building softly.
+[Chorus] Ethereal countertenor falsetto, gently anthemic, warm crescendo, rich stacked harmonies; seamless register blending; brushed drums fuller, upright bass driving; sustained endings, no fry.
+[Verse 2] Ethereal countertenor falsetto, pure clean head voice; intimate, tense, melodic; fingerpicked guitar sparse; sung legato; sustained, no fry, de-essed clean diction.
+[Pre-Chorus] Ethereal countertenor falsetto, clean head voice; tender, rising warmth; mellow piano and music box glints; sung legato, even phrasing; sustained, no fry, de-essed clean diction.
+[Chorus] Ethereal countertenor falsetto, fully open, luminous crescendo, rich stacked harmonies; seamless register blending; brushed drums and upright bass at full warmth; sustained endings, no fry.
+[Guitar Solo] Instrumental; brief expressive fingerpicked acoustic guitar solo, melodic and nostalgic, mellow piano beneath, rising gently then settling, no vocals
+[Coda] Ethereal countertenor falsetto, clean head voice; serene, resolving; sung with gentle legato, stepwise contours; sustained, no fry, de-essed clean diction.
+[Final Coda] Lone fingerpicked guitar and soft floor-tom heartbeat beneath the voice; ethereal countertenor falsetto, very soft, quiet but fully supported, steady airflow, very intimate; each repetition softer, always fully supported; sung legato, no fry.
+[Outro] Short instrumental outro, fingerpicked guitar and soft floor-tom heartbeat, ending on a single held resolved chord, decisive clean ending, no fade, no vocals
 
 ════════════════════════════════════════
 NOTAS — leer antes de generar, NO forman parte de ningún campo

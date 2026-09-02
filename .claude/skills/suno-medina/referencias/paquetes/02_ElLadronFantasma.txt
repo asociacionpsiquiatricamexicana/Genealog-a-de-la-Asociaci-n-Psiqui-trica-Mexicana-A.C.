@@ -1,6 +1,7 @@
 «IN ABSENTIA» — PISTA 2: EL LADRÓN FANTASMA
 Paquete para Suno v5.5
 Fuentes: 02_ElLadronFantasma_letra_v4_VIGENTE.txt · 02_ElLadronFantasma_style_v2_VIGENTE.txt · 02_ElLadronFantasma_exclude_v1_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
 
 ════════════════════════════════════════
 STYLE (campo Style de Suno — pegar tal cual)
@@ -25,17 +26,14 @@ no gothic romance, no professional, no high-quality, no amazing
 LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
-[slow fade in, clean lead guitar riffs, fingerstyle electric bass with a progressive hypnotic groove, half-time rock drums, no vocals, extended instrumental opening, seamless transition to the first verse]
 
 [Verse 1]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, sly and restrained, dry centered, sparse lead guitar arpeggios, seamless transition to the second verse]
 
 Soy un ladrón fantasma,
 un espectro galante,
 cautivo en mi jaula,
 mas libre en mi esencia…
 [Verse 2]
-[young male countertenor, pure clean head voice delivery, high register, ethereal and intimate, close mic'd, dry centered, seamless lift into the first chorus]
 No soy desalmado,
 mas sí rebelde…
 
@@ -47,14 +45,12 @@ para que cada sombra
 halle su camino al alba…
 
 [Chorus 1]
-[young male countertenor, pure clean head voice delivery, high bright register, close mic'd, soaring chorus end, clean lead guitar arpeggios turn anthemic, drums at full drive, layered harmonies widen, seamless transition to the third verse]
 Enemigos tendré,
 y vengo a advertir
 que quien ose seguirme
 sentirá su suplicio…
 
 [Verse 3]
-[young male countertenor, pure clean head voice delivery, high register, restrained and defiant, close mic'd, dry centered, fingerstyle electric bass and dark harpsichord only, seamless transition to the pre-chorus]
 Soy el ladrón fantasma,
 y no hay dios ni demonio
 que me logre quebrar…
@@ -65,7 +61,6 @@ a toda sombra perdida
 hacia la chispa divina…
 
 [Pre-Chorus]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, intensified acoustic strumming, sparse tom fills, seamless transition to the guitar solo]
 No robo oro ni tesoros…
 
 Solo el pulso de corazones
@@ -74,10 +69,8 @@ de almas que eligieron máscaras
 para encubrir su identidad…
 
 [Guitar Solo]
-[no vocals, extended melodic tube-saturated lead guitar solo, controlled dynamic build, wide stereo image, seamless transition to the bridge]
 
 [Bridge]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, dry centered, sparse arrangement, shadowed mellotron, seamless transition to the second chorus]
 Mientras duermen,
 me deslizaré en sus sueños…
 
@@ -89,7 +82,6 @@ la dicha de ver al mundo reconocerse
 tanto en la cima como en el abismo…
 
 [Chorus 2]
-[young male countertenor, pure clean head voice delivery, high bright register, close mic'd, soaring chorus reprise, pronounced lead guitar riffs, intensified drums, expanded harmonies, seamless transition to the breakdown]
 Soy el ladrón fantasma,
 vestido de gala,
 y con antifaz de plata…
@@ -100,33 +92,50 @@ que cargan las palabras
 que ensucian el honor con la mentira…
 
 [Breakdown]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, hypnotic fingerstyle bass groove, shimmering lead guitar arpeggios, descending harmonic tension, seamless transition to the outro]
 No hay mayor goce
 que verse sin máscara,
 ni mayor miedo
 que atreverse a mirar en el espejo
 el reflejo auténtico
 del nombre de nuestro bautismo…
-[subtle wordless ad libs on the main melodic motif]
 
 [Outro]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, meditative and introspective, return to the opening arpeggio, heartbeat-like drum pulse, brief shift to the relative major and return to the tonic, seamless transition to the ending]
 Cuiden mi historia,
 la del ladrón fantasma,
 un espectro galante
 con guantes de seda…
-[subtle wordless ad libs on the main melodic motif]
 
 Un farolero errante
 que salió de sus barrotes
 para ser libre en su esencia…
-[subtle wordless ad libs on the main melodic motif]
 
 [Ending]
-[final chord resolves in the home minor key, the final arpeggio of the main motif rings out alone, clean ending]
 
 [Fade Out]
-[gradual fade driven by the sustain of the final chord, smooth even taper down to full silence]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] slow fade in, clean lead guitar riffs, fingerstyle electric bass with a progressive hypnotic groove, half-time rock drums, no vocals, extended instrumental opening, seamless transition to the first verse
+[Verse 1] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, sly and restrained, dry centered, sparse lead guitar arpeggios, seamless transition to the second verse
+[Verse 2] young male countertenor, pure clean head voice delivery, high register, ethereal and intimate, close mic'd, dry centered, seamless lift into the first chorus
+[Chorus 1] young male countertenor, pure clean head voice delivery, high bright register, close mic'd, soaring chorus end, clean lead guitar arpeggios turn anthemic, drums at full drive, layered harmonies widen, seamless transition to the third verse
+[Verse 3] young male countertenor, pure clean head voice delivery, high register, restrained and defiant, close mic'd, dry centered, fingerstyle electric bass and dark harpsichord only, seamless transition to the pre-chorus
+[Pre-Chorus] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, intensified acoustic strumming, sparse tom fills, seamless transition to the guitar solo
+[Guitar Solo] no vocals, extended melodic tube-saturated lead guitar solo, controlled dynamic build, wide stereo image, seamless transition to the bridge
+[Bridge] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, dry centered, sparse arrangement, shadowed mellotron, seamless transition to the second chorus
+[Chorus 2] young male countertenor, pure clean head voice delivery, high bright register, close mic'd, soaring chorus reprise, pronounced lead guitar riffs, intensified drums, expanded harmonies, seamless transition to the breakdown
+[Breakdown] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, hypnotic fingerstyle bass groove, shimmering lead guitar arpeggios, descending harmonic tension, seamless transition to the outro
+[Breakdown] subtle wordless ad libs on the main melodic motif
+[Outro] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, meditative and introspective, return to the opening arpeggio, heartbeat-like drum pulse, brief shift to the relative major and return to the tonic, seamless transition to the ending
+[Outro] subtle wordless ad libs on the main melodic motif
+[Outro] subtle wordless ad libs on the main melodic motif
+[Ending] final chord resolves in the home minor key, the final arpeggio of the main motif rings out alone, clean ending
+[Fade Out] gradual fade driven by the sustain of the final chord, smooth even taper down to full silence
 
 ════════════════════════════════════════
 NOTAS — leer antes de generar, NO forman parte de ningún campo

@@ -1,6 +1,7 @@
 «IN ABSENTIA» — PISTA 8: ISIS SIN VELO
 Paquete para Suno v5.5
 Fuentes: 08_IsisSinVelo_letra_v4_VIGENTE.txt · 08_IsisSinVelo_style_v2_VIGENTE.txt · 08_IsisSinVelo_exclude_v1_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
 
 ════════════════════════════════════════
 STYLE (campo Style de Suno — pegar tal cual)
@@ -25,44 +26,43 @@ no professional, no high-quality, no amazing
 ════════════════════════════════════════
 LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
-[Intro - Instrumental]
-[Silent start; slow harpsichord ostinato, subtle pads; gradual crescendo]
+[Intro]
 
 [Verse 1]
 En la vacuidad del infinito,
-Sin velo se ofreció;
+Sin velo se ofreció…
 y erigió un refugio,
-para verme nacer...
+para verme nacer………
 
 Se convirtió en mi mitad,
 tanto diosa como mi sangre,
-y el faro de mi destino...
+y el faro de mi destino………
 
 [Chorus 1]
 La magia de sanar,
-es don de toda madre;
+es don de toda madre…
 son un puente en el abismo,
 para que sus hijos,
-no pierdan su camino...
+no pierdan su camino………
 
 Isis sin velo,
 Isis sin velo,
 de cara al sol,
 la Gran Madre,
-Zizigia, brújula viva...
+Zizigia, brújula viva………
 
 [Verse 2]
 No temió prisión,
-ni frenó su paso;
+ni frenó su paso…
 en el universo,
 me tejió en su vientre,
 y entregó la vacuidad,
-del infinito...
+del infinito………
 
-Ella ve lumbre en mis ojos;
+Ella ve lumbre en mis ojos…
 como si observara lo indecible,
 pero no sabe que también,
-veo la llama eterna en los suyos...
+veo la llama eterna en los suyos………
 
 [Interlude]
 
@@ -70,40 +70,49 @@ veo la llama eterna en los suyos...
 Me enseñó,
 que cada adversidad,
 pasa y que seguiré de pie,
-en el frágil hilo del tiempo...
+en el frágil hilo del tiempo………
 
 Gracias ella sé,
 que nada impedirá,
 mi viaje en el sendero,
 hasta llegar a la chispa,
-que me vio nacer...
+que me vio nacer………
 
 [Chorus 2]
 La magia de sanar,
-es don de toda madre;
+es don de toda madre…
 puentes en el abismo,
 para que sus hijos,
-no pierdan el camino...
+no pierdan el camino………
 
 Isis sin velo,
 Isis sin velo,
 de cara al sol,
 la Gran Madre,
-Zizigia, brújula viva...
+Zizigia, brújula viva………
 
 [Breakdown]
 En la vacuidad del infinito,
-Sin velo se ofreció;
+Sin velo se ofreció…
 y erigió un refugio,
-para verme nacer...
+para verme nacer………
 
 Se convirtió en mi mitad,
 tanto diosa como mi sangre,
-y el faro de mi destino...
+y el faro de mi destino………
 
-[Outro - Instrumental]
+[Outro]
 
 [End]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] Silent start; slow harpsichord ostinato, subtle pads; gradual crescendo
 
 ════════════════════════════════════════
 NOTAS — leer antes de generar, NO forman parte de ningún campo

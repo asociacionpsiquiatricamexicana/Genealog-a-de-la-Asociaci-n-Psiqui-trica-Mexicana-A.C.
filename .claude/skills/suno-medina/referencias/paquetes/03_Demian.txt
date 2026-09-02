@@ -1,6 +1,7 @@
 «IN ABSENTIA» — PISTA 3: DEMIAN
 Paquete para Suno v5.5
 Fuentes: 03_Demian_letra_v2_VIGENTE.txt · 03_Demian_style_v2_VIGENTE.txt · 03_Demian_exclude_v2_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
 
 ════════════════════════════════════════
 STYLE (campo Style de Suno — pegar tal cual)
@@ -25,10 +26,8 @@ no gothic romance, no professional, no high-quality, no amazing
 LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
-[fade in, clean arpeggiated guitar builds, warm pads open underneath, atmospheric cinematic build, no vocals, seamless transition to the first verse]
 
 [Verse 1]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained, dry centered, guitar arpeggio stays sparse, seamless transition to the chorus]
 Oh, Demian…
 La vida se llena de espejos
 y de humo en sus pasillos…
@@ -39,7 +38,6 @@ entre los barrotes de la jaula
 que ata mi libertad y deseos…
 
 [Chorus 1]
-[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring chorus end, indietronica hook, drums swell into full drive, luminous pads widen, hooky finger snaps enter, layered harmonies widen, seamless transition to the second verse]
 Oh, Demian…
 Los humanos claman
 por el perdón del dios
@@ -53,7 +51,6 @@ a la advertencia de su castigo
 que proclama la ley de su cielo…
 
 [Verse 2]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained, dry centered, acoustic strumming, soft percussion, seamless transition to the pre-chorus]
 Oh, Demian…
 Sabes que tanto arriba,
 como en el abismo…
@@ -63,7 +60,6 @@ que doblegue
 tu auténtico albedrío…
 
 [Pre-Chorus]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, layered harmonies widen, drums build with rising toms, luminous pads swell, seamless transition to the final chorus]
 Oh, Demian…
 Enséñanos
 a no cargar más cadenas
@@ -78,7 +74,6 @@ del pacto que se selló
 en el jardín del Edén…
 
 [Chorus 2]
-[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring chorus end, indietronica hook, drums drive hard, luminous pads widen, layered harmonies widen, seamless transition to the guitar solo]
 Oh, Demian…
 Naciste del mismo barro
 con el que el dios artesano,
@@ -86,10 +81,8 @@ como tirano, desde su soledad,
 forjó este mundo profano…
 
 [Guitar Solo]
-[no vocals, expressive slightly tube-overdriven electric guitar solo, gradual build, widening stereo, pads drop back, seamless transition to the bridge]
 
 [Bridge]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained confession, dry centered, guitar counter-melody, restrained synth, melancholic lift, seamless transition to the breakdown]
 Oh, Demian…
 Aquel ser te teme
 por tener lengua de serpiente
@@ -99,7 +92,6 @@ y guían a los demás a vivir
 sin su falsa promesa de fe…
 
 [Breakdown]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender restrained, dry centered, guitar counter-melody deepens, restrained synth, anthemic slowdown, cinematic lift at the end, seamless transition to the outro]
 Oh, Demian…
 Solo tú hallaste la semilla divina…
 
@@ -115,7 +107,6 @@ las ruedas que acogen el trono
 del tirano que vigila en su quinto cielo…
 
 [Outro]
-[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, fully loosened restraint, dry centered, firm low end, guitar arpeggios shimmer, seamless transition to the ending]
 Oh, Demian…
 Dime…
 El que sabe…
@@ -124,13 +115,31 @@ El que sabe…
 Oh, Demian…
 Dime…
 ¿Sabes o eres ciego?
-[soft decorating oohs]
 
 [Ending]
-[final chord rings out, intimate vocal tail resolves, mellotron chime fades last]
 
 [Fade Out]
-[polished gradual fade over the sustained final chord, delay dissolving, smooth even taper down to silence]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] fade in, clean arpeggiated guitar builds, warm pads open underneath, atmospheric cinematic build, no vocals, seamless transition to the first verse
+[Verse 1] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained, dry centered, guitar arpeggio stays sparse, seamless transition to the chorus
+[Chorus 1] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring chorus end, indietronica hook, drums swell into full drive, luminous pads widen, hooky finger snaps enter, layered harmonies widen, seamless transition to the second verse
+[Verse 2] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained, dry centered, acoustic strumming, soft percussion, seamless transition to the pre-chorus
+[Pre-Chorus] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, layered harmonies widen, drums build with rising toms, luminous pads swell, seamless transition to the final chorus
+[Chorus 2] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring chorus end, indietronica hook, drums drive hard, luminous pads widen, layered harmonies widen, seamless transition to the guitar solo
+[Guitar Solo] no vocals, expressive slightly tube-overdriven electric guitar solo, gradual build, widening stereo, pads drop back, seamless transition to the bridge
+[Bridge] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained confession, dry centered, guitar counter-melody, restrained synth, melancholic lift, seamless transition to the breakdown
+[Breakdown] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender restrained, dry centered, guitar counter-melody deepens, restrained synth, anthemic slowdown, cinematic lift at the end, seamless transition to the outro
+[Outro] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, fully loosened restraint, dry centered, firm low end, guitar arpeggios shimmer, seamless transition to the ending
+[Outro] soft decorating oohs
+[Ending] final chord rings out, intimate vocal tail resolves, mellotron chime fades last
+[Fade Out] polished gradual fade over the sustained final chord, delay dissolving, smooth even taper down to silence
 
 ════════════════════════════════════════
 NOTAS — leer antes de generar, NO forman parte de ningún campo

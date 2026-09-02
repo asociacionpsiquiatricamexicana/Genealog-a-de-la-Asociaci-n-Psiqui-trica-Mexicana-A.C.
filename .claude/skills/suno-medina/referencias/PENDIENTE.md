@@ -166,3 +166,41 @@ El Exclude de las cuatro pistas no cambió: la bifurcación por pista de
 `album-in-absentia.md` §3 depende del género y del contenido temático, no
 de la instrumentación concreta, y ninguna letra nueva contradice esas
 reglas.
+
+## Tanda correctiva tras la verificación (`/verify` dio FAIL)
+
+La verificación ejercitó la skill en su propia superficie y encontró tres
+incumplimientos que los paquetes entregados tenían frente a la normativa del
+propio paquete. Se corrigieron los tres:
+
+1. **94 corchetes descriptivos largos en once de las doce letras** (el peor, de
+   48 palabras), exactamente la forma que §3.2 declara «prohibidos siempre», y
+   que hacía fallar el ítem «sin brackets largos» de la checklist §9. El remedio
+   lo dicta la propia §3.2 —«delivery y dinámica van al campo Style, no a los
+   corchetes»—: la dirección salió del bloque pegable y quedó como sección de
+   referencia en cada paquete, fuera de los campos. Las versiones del autor con
+   su dirección íntegra siguen en `letras/`, sin tocar.
+2. **Dos límites de versos incompatibles** (§2.2 decía 40–60; la checklist de
+   pregeneración, 60–80). Rige el de la checklist, por ser el documento
+   operativo del álbum; y se precisó su alcance: orienta la redacción de una
+   letra nueva, no invalida una pieza ya compuesta. Seis de las doce quedan
+   fuera del rango y no se recortan: se avisa y se decide pista por pista.
+3. **Puntuación proscrita en cinco letras** (checklist regla 3) y **Õdế Odýnẽs
+   sin ninguna estructura**. La puntuación se normalizó a puntos suspensivos,
+   como en la tanda anterior; a Õdế Odýnẽs se le añadió estructura canónica
+   anclada en sus repeticiones reales («fuiste mi musa de tinta y ceniza…»
+   vuelve dos veces, y ahí está el coro).
+
+También se tradujeron a inglés los tags estructurales que venían en español
+(Verso, Coro, Pre-Coro, Puente, Caída), como exige la regla 12 de la checklist.
+
+**Sonda nueva:** `sondas/verificar_paquetes.py` mide los paquetes entregados
+contra la normativa completa —incluido el criterio de brackets largos, que se
+me había escapado por comprobar solo `[Whispered]` y `[Breathy]`—. Se corre
+con `python3 sondas/verificar_paquetes.py` y sale con 1 si alguna pista falla.
+Hoy: 12/12 conformes, con seis avisos de conteo de versos.
+
+**Sigue sin poder cerrarse:** el núcleo de treinta y dos términos antiglotales
+no ha llegado, así que ningún Exclude está completo; y no hay forma de
+comprobar desde aquí si Suno canta o ignora los corchetes, que es la premisa
+sobre la que descansa toda esta corrección.

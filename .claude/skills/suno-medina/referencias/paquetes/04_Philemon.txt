@@ -1,6 +1,7 @@
 «IN ABSENTIA» — PISTA 4: PHILÉMŌN
 Paquete para Suno v5.5
 Fuentes: 04_Philemon_letra_v5_VIGENTE.txt · 04_Philemon_style_v4_VIGENTE.txt · 04_Philemon_exclude_v3_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
 
 ════════════════════════════════════════
 STYLE (campo Style de Suno — pegar tal cual)
@@ -25,10 +26,8 @@ no gothic romance, no professional, no high-quality, no amazing
 LYRICS (campo Lyrics de Suno — pegar tal cual)
 ════════════════════════════════════════
 [Intro]
-[fade in, clean electric guitar arpeggio builds with subtle tape delay, warm analog pad opens underneath, grand piano enters, wide controlled stereo, no vocals, seamless transition to the first verse]
 
 [Verse 1]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd intimacy, restrained and oneiric, dry centered, half-time feel, guitar arpeggio stays sparse, seamless transition to the chorus]
 En un sueño olvidado
 crucé umbrales
 con alas de carmín…
@@ -49,7 +48,6 @@ pues ya lo saben
 quienes deben saberlo…
 
 [Chorus 1]
-[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, grand piano takes the lead, chiming electric guitars widen, drums swell into a fuller lift, dark saxophone answers the piano, layered harmonies widen, seamless transition to the second verse]
 Así,
 al piano de cola,
 cada noche, en gala,
@@ -64,7 +62,6 @@ se atreven a descifrar en silencio
 quiénes son de verdad…
 
 [Verse 2]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained, dry centered, brushed percussion, delicate acoustic strumming, seamless transition to the final chorus]
 Y, al volver de aquel umbral,
 comprenden
 que en cada senda de este ciclo
@@ -75,7 +72,6 @@ siempre habrá un sendero abierto
 que los conduzca hacia lo divino…
 
 [Chorus 2]
-[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, grand piano returns brighter, chiming guitars shimmer, drums lift without hardening, layered harmonies widen, seamless transition to the bridge]
 Y al piano de cola,
 en cada noche
 y al despuntar,
@@ -87,10 +83,8 @@ que los guíe
 hacia el amanecer…
 
 [Bridge]
-[no vocals, clean electric guitar solo, slow build, widening stereo, detuned synth drone deepens, dark saxophone answers, sidechain pulse underneath, two-bar instrumental settle before the vocal returns, seamless transition to the third verse]
 
 [Verse 3]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, bittersweet reflective, dry centered, airy register, seamless transition to the interlude]
 Y de la ruina
 surgirá la llama,
 capaz de abrazar
@@ -99,7 +93,6 @@ la vastedad del mundo…
 Y su luz
 no se extinguirá jamás…
 [Interlude]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, clean electric guitar counterline, restrained synth, dark saxophone accents, melancholic lift, dry centered, warm tape echo, seamless transition to the breakdown]
 
 Ya no llevarán máscaras,
 porque las cadenas
@@ -107,26 +100,42 @@ que creían arrastrar
 nunca existieron…
 
 [Breakdown]
-[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, dry centered, sub-heavy bass, muted acoustic guitars, subtle tape wobble, dark saxophone, melancholic tension, seamless transition to the outro]
 Recuérdenme
 como el espejo fiel
 de aquello en que algún día se convertirán,
 y de lo que alguna vez negaron ser…
 
 [Outro]
-[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, fully loosened restraint, close mic'd, mournful tone, gentle tape delay, firm low end, seamless transition to the ending]
 Ustedes son yo,
 yo soy ustedes…
 
 Ustedes son yo,
 yo soy ustedes…
-[soft main-melody oohs]
 
 [Ending]
-[final piano chord rings out, clean guitar arpeggio resolves, saxophone breath fades last]
 
 [Fade Out]
-[polished gradual fade over the sustained final chord, tape delay decays, smooth even taper down to silence]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] fade in, clean electric guitar arpeggio builds with subtle tape delay, warm analog pad opens underneath, grand piano enters, wide controlled stereo, no vocals, seamless transition to the first verse
+[Verse 1] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd intimacy, restrained and oneiric, dry centered, half-time feel, guitar arpeggio stays sparse, seamless transition to the chorus
+[Chorus 1] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, grand piano takes the lead, chiming electric guitars widen, drums swell into a fuller lift, dark saxophone answers the piano, layered harmonies widen, seamless transition to the second verse
+[Verse 2] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained, dry centered, brushed percussion, delicate acoustic strumming, seamless transition to the final chorus
+[Chorus 2] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, grand piano returns brighter, chiming guitars shimmer, drums lift without hardening, layered harmonies widen, seamless transition to the bridge
+[Bridge] no vocals, clean electric guitar solo, slow build, widening stereo, detuned synth drone deepens, dark saxophone answers, sidechain pulse underneath, two-bar instrumental settle before the vocal returns, seamless transition to the third verse
+[Verse 3] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, bittersweet reflective, dry centered, airy register, seamless transition to the interlude
+[Interlude] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, clean electric guitar counterline, restrained synth, dark saxophone accents, melancholic lift, dry centered, warm tape echo, seamless transition to the breakdown
+[Breakdown] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, dry centered, sub-heavy bass, muted acoustic guitars, subtle tape wobble, dark saxophone, melancholic tension, seamless transition to the outro
+[Outro] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, fully loosened restraint, close mic'd, mournful tone, gentle tape delay, firm low end, seamless transition to the ending
+[Outro] soft main-melody oohs
+[Ending] final piano chord rings out, clean guitar arpeggio resolves, saxophone breath fades last
+[Fade Out] polished gradual fade over the sustained final chord, tape delay decays, smooth even taper down to silence
 
 ════════════════════════════════════════
 NOTAS — leer antes de generar, NO forman parte de ningún campo

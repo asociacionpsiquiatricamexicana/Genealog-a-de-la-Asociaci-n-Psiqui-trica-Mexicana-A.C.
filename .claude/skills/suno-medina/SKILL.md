@@ -240,7 +240,16 @@ a G mayor; Picardy third en el outro.
 ### 2.2 Límites (verificados jul 2026)
 
 - Style: **1000 caracteres** — contar siempre antes de entregar.
-- Lyrics: **5000 caracteres**; límite práctico de coherencia 40–60 líneas.
+- Lyrics: **5000 caracteres**. Sobre el número de versos convivían dos
+  cifras incompatibles en este paquete: 40–60 líneas aquí y «60 a 80 versos
+  únicos» en `referencias/checklist-pregeneracion.md` regla 5. **Rige la del
+  checklist (60–80)**, que es el documento operativo del álbum y el que
+  refleja la práctica real del corpus; las 40–60 de antes eran orientación
+  genérica anterior. Por encima de 80 versos únicos, comprimir o partir la
+  generación (§0.B: la coherencia decae con la duración). **El rango orienta
+  la redacción de una letra nueva; no es criterio para rechazar una pieza ya
+  compuesta.** Seis de las doce de «In Absentia» quedan fuera y no por ello se
+  recortan: se avisa y se decide pista por pista.
 - Si el style excede: comprimir instrumentación primero, luego producción.
   Nunca comprimir perfil vocal ni negative.
 
