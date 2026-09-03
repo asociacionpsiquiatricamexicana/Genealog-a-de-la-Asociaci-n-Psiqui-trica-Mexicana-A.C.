@@ -1,0 +1,89 @@
+# ISIS SIN VELO — letra v3, VIGENTE
+# Deriva de la v2 (normalización de puntuación) añadiendo el aparato de
+# metatags que ya tienen las demás pistas del álbum. Estructura compuesta
+# por Claude Code: no había tags de ningún tipo en la fuente, así que la
+# segmentación en Verse/Pre-Chorus/Chorus/Bridge/Outro es INFERENCIA a
+# partir de la forma y de las repeticiones reales del texto («Isis sin
+# velo», «por siempre… y para siempre…»), igual que la nota que el propio
+# autor puso en la letra ya tageada de La Rueda de la Vida para su propia
+# segmentación. NINGUNA PALABRA DE LA LETRA SE ALTERÓ respecto de la v2.
+#
+# Nota de doctrina (album-in-absentia.md §3): gothic rock y batería dura
+# quedan vetados en esta pista, a diferencia de casi todo el álbum; la
+# instrumentación de los corchetes se compuso en consecuencia, más suave.
+
+[Intro]
+[fade in, harp glissando opens from silence, sustained string bed rises underneath, soft mallet percussion glints far back, no vocals, seamless transition to the first verse]
+[Verse 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender and reverent, dry centered, harp and strings stay sparse, no drums yet, seamless transition to the next verse]
+En la retracción primordial de lo absoluto
+fui el vientre fecundo donde tu espíritu germina…
+
+Toda madre es la cicatriz que dilata el espacio,
+la cuna de carne donde el otro se inclina…
+
+Como la llama que enciende tus futuros,
+cedí mi lindero para darte una orilla…
+
+Soy la raíz que en silencio te protege,
+sin velo que se inmole para que alcances
+tu epifanía…
+[Verse 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, strings widen, soft mallet percussion settles into a gentle unhurried pulse, no hard drums, seamless transition to the pre-chorus]
+Quiero que se rompan las cadenas que te marchitan…
+
+No habrá dogma ni la inercia de ser que me detenga…
+
+El misterio más profundo de la vida que engendra es ser madre…
+
+ni el más erudito comprende tan puro amor…
+[Pre-Chorus 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, strings swell gently, harp arpeggios widen, seamless transition to the chorus]
+Toda diosa es istmo donde lo eterno pernocta,
+y en nuestros regazos se disuelven tus angustias…
+
+Por siempre… y para siempre…
+[Chorus 1]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring chorus end, full strings bloom, layered harmonies widen, luminous and warm, no hard drums, seamless transition to the third verse]
+Isis sin velo, que no se oculta del sol,
+la madre desnuda, estirpe de fuego,
+con alma que acompaña tu camino…
+
+Darte la herencia es mi único ruego,
+y hogar de un espíritu inquebrantable,
+pues mi único deseo es verte trazar…
+[Verse 3]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender and hushed, dry centered, instrumentation thins to harp and soft strings, seamless transition to the next verse]
+Lágrimas… y sonrisas
+conforman la trama de toda una historia
+de cada diosa y sus hijos…
+[Verse 4]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, strings widen again, mallet percussion returns gently, seamless transition to the pre-chorus]
+No hay jaula ni rito que puedan detenerme…
+
+Vine de la nada, y aun así naciste de mí todo…
+
+Y así veo el infinito del cosmos en tus ojos…
+[Pre-Chorus 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, loosens further, dry centered, full strings swell, harp arpeggios widen, seamless transition to the final chorus]
+Ya no portaré velo, pues cae porque mi amor no se hereda…
+
+ya se encuentra en ti… por siempre… y para siempre…
+[Chorus 2]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, fully loosened restraint, luminous peak, full strings at their widest, layered harmonies bloom, no hard drums, seamless transition to the bridge]
+Isis sin velo…
+[Bridge]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender confession, dry centered, instrumentation thins to harp alone, strings sustain underneath, seamless transition to the outro]
+En la vacuidad plena del principio,
+donde la madre es umbral y el hijo es la luz,
+soy la única capaz de frenar el tiempo para ti,
+para que tu camino, cualquiera que desees…
+
+Cambié el mundo por uno que no me tocó vivir…
+[Outro]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender and resolved, dry centered, strings and harp sustain together, warm and unhurried, seamless transition to the ending]
+Por siempre… y para siempre…
+[Ending]
+[final sustained string chord rings out, harp resolves last, warm and luminous]
+[Fade Out]
+[polished gradual fade over the sustained final chord, smooth even taper]

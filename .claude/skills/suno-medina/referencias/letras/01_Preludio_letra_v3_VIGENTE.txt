@@ -1,0 +1,19 @@
+# PRELUDIO — letra v3, VIGENTE (arreglo alterno)
+# Contenido del autor, pegado directamente. Instrumental, como la v2 (que
+# se conserva, no se archivó), pero con un carácter y una instrumentación
+# distintos: la v2 es cinematográfica, con piano, mellotron y drone; esta
+# v3 es un instrumental de guitarra fingerstyle con sonido de pájaros de
+# fondo. No se decidió cuál de las dos es la que se usará; quedan como
+# dos arreglos posibles del mismo lugar del álbum. Transcrita verbatim.
+
+[Intro]
+[fingerstyle acoustic guitar enters, alternating bass pattern]
+[ambient bird chirping sounds in background]
+
+[Main Theme]
+[syncopated melody on high strings over steady thumb-picked bass]
+[second acoustic guitar enters with melodic fills and hammer-ons]
+
+[Outro]
+[melody slows down, final G major chord rings out]
+[birds chirping fades to silence]

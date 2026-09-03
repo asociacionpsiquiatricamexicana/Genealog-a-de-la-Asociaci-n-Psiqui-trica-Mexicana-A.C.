@@ -1,0 +1,11 @@
+# 10_LaCasadeDulce_exclude_v4_VIGENTE
+# Exclude limpio para pegar en Suno; las notas de esta skill van fuera del bloque.
+
+no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
+no falsetto, no de-essed, no darkwave, no drum machine, no epic swells,
+no hall reverb, no room reverb, no gothic romance, no professional,
+no high-quality, no amazing
+
+NOTAS (no pegar en Suno):
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]
+- [«falsetto» y «de-essed» agregados aquí en negativo porque la letra v3 de esta pista los usa en positivo en sus propios corchetes, lo cual incumple checklist-pregeneracion.md §7 (ver PENDIENTE.md); usar «airy high register» en el Style, no «falsetto», por §2.4 del SKILL.md.]

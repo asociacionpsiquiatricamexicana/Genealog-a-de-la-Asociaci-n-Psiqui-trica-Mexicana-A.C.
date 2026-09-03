@@ -1,0 +1,50 @@
+«IN ABSENTIA» — PISTA 1: PRELUDIO
+Paquete para Suno v5.5
+Fuentes: 01_Preludio_letra_v3_VIGENTE.txt · 01_Preludio_style_v1_VIGENTE.txt · 01_Preludio_exclude_v1_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
+
+════════════════════════════════════════
+STYLE (campo Style de Suno — pegar tal cual)
+════════════════════════════════════════
+Instrumental indie folk overture, wistful and pastoral, bittersweet calm before the album begins.
+No vocals.
+86 BPM, G minor, instrumental.
+Fingerstyle acoustic guitar, alternating bass pattern, second acoustic guitar with melodic fills and hammer-ons, high strings, ambient outdoor birdsong.
+Dry intimate mix, minimal reverb, close recording, hi-fi.
+Sparse solo guitar intro building from near-silence.
+Syncopated main theme over a steady thumb-picked bass.
+Gradual outro, melody slows, resolves to G major, birdsong fades last.
+
+════════════════════════════════════════
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
+════════════════════════════════════════
+no vocals, no darkwave, no drum machine, no epic swells, no hall reverb,
+no room reverb, no gothic romance, no professional, no high-quality, no amazing
+
+════════════════════════════════════════
+LYRICS (campo Lyrics de Suno — pegar tal cual)
+════════════════════════════════════════
+[Intro]
+
+[Main Theme]
+
+[Outro]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] fingerstyle acoustic guitar enters, alternating bass pattern
+[Intro] ambient bird chirping sounds in background
+[Main Theme] syncopated melody on high strings over steady thumb-picked bass
+[Main Theme] second acoustic guitar enters with melodic fills and hammer-ons
+[Outro] melody slows down, final G major chord rings out
+[Outro] birds chirping fades to silence
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

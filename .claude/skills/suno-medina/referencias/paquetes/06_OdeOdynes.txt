@@ -1,0 +1,130 @@
+«IN ABSENTIA» — PISTA 6: ÕDẾ ODÝNẼS
+Paquete para Suno v5.5
+Fuentes: 06_OdeOdynes_letra_v4_VIGENTE.txt · 06_OdeOdynes_style_v1_VIGENTE.txt · 06_OdeOdynes_exclude_v1_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
+
+════════════════════════════════════════
+STYLE (campo Style de Suno — pegar tal cual)
+════════════════════════════════════════
+Gothic rock waltz with chamber pop elegance, lugubrious and tender, bittersweet warmth inside the darkness.
+Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, noir phrasing, layered harmonies.
+78 BPM, F minor, waltz feel, Spanish lyrics.
+Harpsichord, cello, music box, waltz strings, brushed 3/4 drums.
+Dry intimate mix, minimal reverb, close recording, hi-fi.
+Sparse harpsichord and cello waltz intro building from near-silence.
+Hook-driven chorus with warm gothic lift, mercury-mirror shimmer.
+Gradual outro fade on a resolving waltz chord.
+
+════════════════════════════════════════
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
+════════════════════════════════════════
+no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
+no 4/4 time, no straight beat, no darkwave, no drum machine, no epic swells,
+no hall reverb, no room reverb, no gothic romance,
+no professional, no high-quality, no amazing
+
+════════════════════════════════════════
+LYRICS (campo Lyrics de Suno — pegar tal cual)
+════════════════════════════════════════
+[Intro]
+
+[Verse 1]
+Doce cuentos tejiste
+en un vals de sombras…
+con páginas que guardan tu canto,
+escrito en lo indecible…
+
+Y entre sombras que me envuelven,
+así me enamoré de ti,
+frente a un viejo escritorio,
+bajo la luna fría…
+
+[Pre-Chorus 1]
+Y aunque tu amor no me alcance,
+algo en mí floreció…
+la palabra que encendiste
+ya no se apaga…
+
+[Chorus 1]
+Mi alma en penumbra
+te canta lo que el tiempo me enseñó,
+y solo pido que estos versos
+guarden lo que de ti aprendí…
+fuiste mi musa de tinta y ceniza,
+la que despertó mi voz,
+vestida de negro,
+bailando entre tumbas sin temor…
+
+[Verse 2]
+No hay reloj que apure el corazón,
+ni calendario que ordene el amar…
+aprendí que no se fuerza
+lo que ha de cultivarse,
+y que esperar en la sombra
+también es un modo de florecer…
+
+[Pre-Chorus 2]
+Y aunque tu amor no me alcance,
+no me quedé vacío…
+me dejaste una pluma,
+y un vals que aún danzo…
+
+[Verse 3]
+Nunca olvidaré
+la noche en que me diste tu historia,
+que escuché con devoción…
+y con tus palabras
+alzaste mis manos,
+y aprendí a trazar
+los versos que hoy me nombran,
+musa de negro
+que baila en el cementerio…
+
+[Bridge]
+No me perdí buscándote…
+me encontré escribiendo…
+
+Y en la niebla de aquel tiempo,
+donde creí extraviarme,
+hallé que la pluma era mía,
+y que el camino, apenas,
+comenzaba…
+
+[Verse 4]
+Tus doce cuentos
+giran en el vals,
+con estribillos oscuros
+que escribiste a la luna,
+y entre sus tumbas
+aprendí a esperar…
+
+[Chorus 2]
+Mi alma en penumbra
+ya no le teme al silencio…
+estos versos que te canto
+son la voz que me dejaste…
+fuiste mi musa de tinta y ceniza,
+la que despertó mi voz,
+vestida de negro,
+y yo, libre, sigo aún el vals…
+
+[Breakdown]
+Guardaré tus palabras,
+las que me enseñaron
+que no todo lo que se anhela
+ha de cumplirse…
+y espero, paciente, sin prisa,
+lo que un día florezca de verdad…
+
+[Outro]
+Mientras tanto, escribo,
+y el vals continúa,
+verso por verso,
+hacia el amanecer…
+
+[Fade Out]
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

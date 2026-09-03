@@ -1,0 +1,120 @@
+«IN ABSENTIA» — PISTA 8: ISIS SIN VELO
+Paquete para Suno v5.5
+Fuentes: 08_IsisSinVelo_letra_v4_VIGENTE.txt · 08_IsisSinVelo_style_v2_VIGENTE.txt · 08_IsisSinVelo_exclude_v1_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
+
+════════════════════════════════════════
+STYLE (campo Style de Suno — pegar tal cual)
+════════════════════════════════════════
+Luminous chamber pop with indie folk warmth, tender and reverent, bittersweet awe resolving into gratitude.
+Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, soft high register, layered harmonies.
+92 BPM, D# minor, Spanish lyrics.
+Harpsichord ostinato, soft pads, string ensemble, no hard drums.
+Dry intimate mix, minimal reverb, close recording, hi-fi.
+Silent start, slow harpsichord ostinato building in a gradual crescendo.
+Hook-driven chorus with luminous warmth, borrowed major-relative lift.
+Gradual outro fade on a sustained warm pad.
+
+════════════════════════════════════════
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
+════════════════════════════════════════
+no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
+no gothic rock, no punchy drums, no aggressive, no darkwave, no drum machine,
+no epic swells, no hall reverb, no room reverb, no gothic romance,
+no professional, no high-quality, no amazing
+
+════════════════════════════════════════
+LYRICS (campo Lyrics de Suno — pegar tal cual)
+════════════════════════════════════════
+[Intro]
+
+[Verse 1]
+En la vacuidad del infinito,
+Sin velo se ofreció…
+y erigió un refugio,
+para verme nacer………
+
+Se convirtió en mi mitad,
+tanto diosa como mi sangre,
+y el faro de mi destino………
+
+[Chorus 1]
+La magia de sanar,
+es don de toda madre…
+son un puente en el abismo,
+para que sus hijos,
+no pierdan su camino………
+
+Isis sin velo,
+Isis sin velo,
+de cara al sol,
+la Gran Madre,
+Zizigia, brújula viva………
+
+[Verse 2]
+No temió prisión,
+ni frenó su paso…
+en el universo,
+me tejió en su vientre,
+y entregó la vacuidad,
+del infinito………
+
+Ella ve lumbre en mis ojos…
+como si observara lo indecible,
+pero no sabe que también,
+veo la llama eterna en los suyos………
+
+[Interlude]
+
+[Verse 3]
+Me enseñó,
+que cada adversidad,
+pasa y que seguiré de pie,
+en el frágil hilo del tiempo………
+
+Gracias ella sé,
+que nada impedirá,
+mi viaje en el sendero,
+hasta llegar a la chispa,
+que me vio nacer………
+
+[Chorus 2]
+La magia de sanar,
+es don de toda madre…
+puentes en el abismo,
+para que sus hijos,
+no pierdan el camino………
+
+Isis sin velo,
+Isis sin velo,
+de cara al sol,
+la Gran Madre,
+Zizigia, brújula viva………
+
+[Breakdown]
+En la vacuidad del infinito,
+Sin velo se ofreció…
+y erigió un refugio,
+para verme nacer………
+
+Se convirtió en mi mitad,
+tanto diosa como mi sangre,
+y el faro de mi destino………
+
+[Outro]
+
+[End]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] Silent start; slow harpsichord ostinato, subtle pads; gradual crescendo
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

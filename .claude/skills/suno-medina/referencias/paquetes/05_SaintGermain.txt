@@ -1,0 +1,141 @@
+«IN ABSENTIA» — PISTA 5: SAINT-GERMAIN
+Paquete para Suno v5.5
+Fuentes: 05_SaintGermain_letra_v9_VIGENTE.txt · 05_SaintGermain_style_v10_VIGENTE.txt · 05_SaintGermain_exclude_v6_VIGENTE.txt
+Letra normalizada a §3.2 (tags estructurales canónicos en inglés, sin corchetes descriptivos).
+
+════════════════════════════════════════
+STYLE (campo Style de Suno — pegar tal cual)
+════════════════════════════════════════
+Gothic rock with baroque pop elegance, defiant and luminous, bittersweet triumph with some hope.
+Close-mic countertenor, pure clean head voice throughout, airy but clean, no chest voice, no fry, ethereal delivery, layered harmonies.
+129 BPM, E minor, Spanish lyrics.
+Clean electric guitar riff, treated harpsichord, melodic bass, cathartic overdriven guitar solo.
+Dry intimate mix, minimal reverb, close recording, hi-fi.
+Sparse guitar-and-harpsichord intro building into a driving pulse.
+Hook-driven chorus with treated harpsichord lead, chimey bright guitars, drums swelling into full drive.
+Cinematic outro, guitar arpeggios shimmer, drums lift, harpsichord glint fades last.
+
+════════════════════════════════════════
+EXCLUDE (campo Exclude / negative prompt — pegar tal cual)
+════════════════════════════════════════
+no vocal fry, no raspy delivery, no chest voice breaks, no whispered, no breathy,
+no darkwave, no drum machine, no epic swells, no hall reverb, no room reverb,
+no gothic romance, no professional, no high-quality, no amazing
+
+════════════════════════════════════════
+LYRICS (campo Lyrics de Suno — pegar tal cual)
+════════════════════════════════════════
+[Intro]
+
+[Verse 1]
+Sabio viajero
+perdido en un laberinto de mármol…
+
+Aun así, impecable,
+como un diamante caído
+en un charco de hiel…
+
+[Pre-Chorus 1]
+Vestido con un traje
+de un tiempo olvidado
+que se rinde a tu andar…
+
+Y marchas a contrapié
+del minutero de cada reloj
+que nos confunde y nos ata,
+como obra del ente que miente…
+
+[Chorus 1]
+Alquimista,
+viajero del tiempo…
+
+El primero y el último,
+enjaulado, mas no trágico,
+que aprende a eludir al dios arquitecto,
+el que azota las manos
+hechas de estrellas arrogantes,
+cuando cree casi haberte vencido…
+
+[Guitar Solo]
+[Bridge]
+¿Qué sería el hoy sin ti?
+
+Si la historia te recuerda,
+no en mitos ni en leyendas,
+sino como maestro
+con alumnos en toda era…
+
+Y como todo estudiante tuyo,
+no dudo que alcanzarás la luz…
+
+[Verse 2]
+Y la plenitud que descubriste
+existe,
+y a cada quien envuelve…
+
+[Pre-Chorus 2]
+Es la chispa divina
+que no puede encadenarse
+por carcelero alguno…
+
+Y por eso tu viaje deja mudo
+a quien ría de tu bravura,
+pues al dios artesano
+mudo lo dejó…
+
+[Chorus 2]
+Alquimista,
+viajero del tiempo,
+la plenitud ya arde en tu alma…
+
+Y nada ni nadie podrá
+ceñirte a un muro
+o a un pasillo infinito…
+
+Y nadie duda que, por nosotros,
+hallarás la luz…
+
+[Outro]
+Alquimista,
+mil nombres tienes
+y tuviste…
+
+Viajero del tiempo,
+que busca la puerta
+que da a la luz…
+
+Primer maestro,
+que escribió la lección de oro,
+la que enseña
+que no hay cárcel tan honda
+como creer conocerse a sí mismo…
+
+[Ending]
+
+[Fade Out]
+
+════════════════════════════════════════
+DIRECCIÓN POR SECCIÓN — referencia, NO se pega en ningún campo
+════════════════════════════════════════
+Es la dirección que el autor traía dentro de los corchetes de la letra.
+§3.2 la manda al campo Style, no a los corchetes, así que se movió aquí:
+el Style de arriba ya la resume. Se conserva para el arreglo y la mezcla.
+
+[Intro] fade in, clean electric guitar riff builds with light delay, treated harpsichord glints enter, melodic bass rolls in, drums build up into a driving pulse, no vocals, seamless transition to the first verse
+[Verse 1] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restrained and intimate, close mic'd, dry centered, jangly guitar riff stays sparse, bass walks in eighth notes, drums hold steady, seamless transition to the pre-chorus
+[Pre-Chorus 1] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restraint begins to lift, close mic'd, harpsichord figure tightens, bass pushes forward, drums build with rising toms, seamless transition to the chorus
+[Chorus 1] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, treated harpsichord takes the lead, guitar riffs turn chimey and bright, drums swell into full drive, layered harmonies widen, seamless transition to the guitar solo
+[Guitar Solo] no vocals, cathartic overdriven electric guitar solo, bright tone, builds gradually, harpsichord drops back, drums push forward, stereo widens, seamless transition to the bridge
+[Bridge] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restrained confession, close mic'd, instrumentation thins to harpsichord and soft pads, drums pull back, seamless transition to the second verse
+[Verse 2] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restrained, noir phrasing, close mic'd, dry centered, guitars play rhythmic stabs, bass rolls forward, dark analog synth pads deepen underneath, seamless transition to the pre-chorus
+[Pre-Chorus 2] young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restraint begins to lift, close mic'd, synth pads swell underneath, guitars tighten into rhythmic drive, drums build with rising toms, seamless transition to the final chorus
+[Chorus 2] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, loosens restraint, soaring chorus end, harpsichord lead returns brighter, guitar riffs turn chimey, drums drive hard, layered harmonies widen, seamless transition to the outro
+[Outro] young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, fully loosened restraint, firm low end, synth pads swell wide, guitar arpeggios shimmer, drums lift into a cinematic climax, seamless transition to the ending
+[Outro] soft main-melody oohs
+[Ending] final guitar chord rings out, clean drum roll resolves, harpsichord glint fades last
+[Fade Out] polished gradual fade over the sustained final chord, smooth even taper down to silence
+
+════════════════════════════════════════
+NOTAS — leer antes de generar, NO forman parte de ningún campo
+════════════════════════════════════════
+- [NÚCLEO ANTIGLOTAL Y ANTISIBILANTE DE 32 TÉRMINOS: pendiente, no incluido en el documento fuente que llegó a esta skill. Insertar aquí antes de usar este Exclude en Suno; ver referencias/PENDIENTE.md.]

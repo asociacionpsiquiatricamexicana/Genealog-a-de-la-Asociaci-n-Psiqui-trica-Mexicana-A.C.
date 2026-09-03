@@ -1,0 +1,77 @@
+# EL LADRÓN FANTASMA — letra v3, VIGENTE
+# Deriva de la v2 (normalización de puntuación) añadiendo el aparato de
+# metatags que ya tienen las demás pistas del álbum. Estructura compuesta
+# por Claude Code: este texto es corrido, sin ningún gancho que se repita
+# verbatim (carta de reto en primera persona, no forma verso-coro clásica).
+# Se etiquetó UN solo [Chorus], sin repetición, marcando la estrofa que
+# funciona como el clímax declarativo de la pieza («Entonces les anuncio…»);
+# el resto son [Verse] secuenciales por orden de aparición, sin inventar
+# una repetición que el texto no tiene. NINGUNA PALABRA DE LA LETRA SE
+# ALTERÓ respecto de la v2.
+#
+# Nota de doctrina (album-in-absentia.md §3): rock gótico permitido en
+# positivo en esta pista (retirado del negative), consistente con la
+# estética de ladrón caballero gótico-noir que el propio texto describe
+# (guantes de seda, antifaz de gala, atuendo negro).
+
+[Intro]
+[fade in, muted noir guitar arpeggio opens with light delay, low strings enter with a slow menacing sway, no vocals, seamless transition to the first verse]
+[Verse 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restrained, noir phrasing, close mic'd, dry centered, guitar and strings stay sparse, seamless transition to the second verse]
+Soy un ladrón con guantes de seda…
+
+encerrado en una jaula,
+pero libre en mi esencia…
+
+Y río en la penumbra
+con burla elegante y serena,
+mientras el pulso cae en seco…
+[Verse 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restraint begins to lift, close mic'd, dry centered, guitar plays rhythmic stabs, bass rolls in, drums enter with a steady noir pulse, seamless transition to the chorus]
+Entro sin romper la calma, a desafiar…
+
+me dirijo a esos rostros culpables
+que se creen inocentes y puros…
+
+Y, sinceramente,
+ya me he cansado de sus injusticias repetidas…
+[Chorus]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring gothic lift, full noir ensemble, layered harmonies widen, elegant and defiant, seamless transition to the third verse]
+Entonces les anuncio
+que atraparme no es posible…
+
+y perseguirme les resultará un suplicio…
+
+Porque soy un espectro galante,
+y vengo a robarles el corazón marchito,
+ese que esconden como un tesoro…
+[Verse 3]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restrained and cold, close mic'd, dry centered, instrumentation thins to guitar and low strings, seamless transition to the fourth verse]
+No temo a dioses, ángeles ni demonios…
+
+mucho menos a ustedes,
+culpables de poca monta…
+[Verse 4]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restraint begins to lift, close mic'd, dry centered, guitar and strings widen, drums build with rising toms, seamless transition to the bridge]
+Así que, con carta de aviso,
+les anunciaré mi llegada,
+e iré vestido para celebrar su caída…
+
+Con un atuendo negro y antifaz de gala…
+[Bridge]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, restrained confession, close mic'd, dry centered, instrumentation thins to guitar and soft pads, drums pull back, seamless transition to the outro]
+Cuando duerman,
+me encontrarán en sus sueños,
+donde iré desentrañando lo que ocultan…
+
+Tras sus frágiles máscaras
+y esas palabras vacías, sin honor…
+[Outro]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, fully loosened restraint, gothic climax, full noir ensemble at its widest, layered harmonies bloom, seamless transition to the ending]
+Y todo lo que hurte con esta rabia incontrolable
+lo desnudaré, poco a poco,
+ante los ojos del mundo…
+[Ending]
+[final chord rings out on guitar and low strings, cold and resolved]
+[Fade Out]
+[polished gradual fade over the sustained final chord, smooth even taper]

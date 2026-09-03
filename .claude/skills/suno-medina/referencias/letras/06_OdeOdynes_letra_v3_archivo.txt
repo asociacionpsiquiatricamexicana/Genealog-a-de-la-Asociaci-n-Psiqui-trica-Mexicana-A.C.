@@ -1,0 +1,119 @@
+# ÕDẾ ODÝNẼS — letra v3, VIGENTE
+# Deriva de la v2 (normalización de puntuación) añadiendo el aparato de
+# metatags que ya tienen las demás pistas del álbum. Estructura compuesta
+# por Claude Code, apoyada en las repeticiones reales del texto («Mis
+# lágrimas… El terror de mi oscuridad es tan cálido como el sol…» se
+# repite casi verbatim; «Estas tristes sombras… a un fantasma olvidado…»
+# cierra repetida dos veces): eso se tageó como Chorus y Outro respectivamente,
+# no por invención. NINGUNA PALABRA DE LA LETRA SE ALTERÓ respecto de la v2.
+#
+# Nota de doctrina (album-in-absentia.md §3): esta pista va en 3/4 (vals);
+# 4/4 time y straight beat quedan vetados en el Exclude, al revés que el
+# resto del álbum. Rock gótico permitido en positivo (único junto con las
+# demás piezas oscuras, vetado solo en Isis y Rueda de la Vida).
+
+[Intro]
+[fade in, waltz-time harpsichord figure opens alone, cello enters with a slow 3/4 sway, music box glints far back, no vocals, seamless transition to the first verse]
+[Verse 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, noir phrasing, restrained, dry centered, waltz feel throughout, harpsichord and cello stay sparse, seamless transition to the pre-chorus]
+Doce cuentos
+narran historias
+al compás de un vals,
+con páginas que hablan
+de monstruos
+reflejados en espejos
+de mercurio…
+[Pre-Chorus 1]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, waltz strings widen, brushed drums enter in 3/4, seamless transition to the chorus]
+Un canon sepultado
+sobre mis letras cinceladas
+que inscriben lo indecible
+entre las tinieblas
+que me envuelven
+en un lúgubre escritorio…
+[Chorus 1]
+[young male countertenor, pure clean head voice delivery, high bright register, ethereal delivery, close mic'd, loosens restraint, soaring waltz swell, full gothic ensemble, layered harmonies widen, warm despite the darkness, seamless transition to the second verse]
+Mis lágrimas
+brillan en la luz nocturna…
+
+El terror de mi oscuridad
+es tan cálido como el sol…
+
+guía mi mano,
+y así mis letras
+hallan el verbo que sutura heridas
+que incontables ayeres
+que reivindican la vida
+como hoguera que aviva el silencio
+y destila aroma…
+[Verse 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained and noir, dry centered, instrumentation thins to harpsichord and cello, waltz feel unbroken, seamless transition to the pre-chorus]
+No hay reloj ni bestia
+que sacuda mis pasiones,
+
+ni los días ni los periodos de amargura,
+tan fríos anales de una vetusta prisión…
+
+Los cedo a mi voz,
+instrumento incomprendido
+que abraza sombras de antaño
+con un halo del quinto cielo…
+[Pre-Chorus 2]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restraint begins to lift, dry centered, waltz strings tighten, drums build with rising toms, seamless transition to the final chorus]
+Mis lágrimas
+relucen bajo la luz nocturna…
+
+El terror de mi oscuridad
+es tan cálido como el sol…
+
+guía mi mano,
+y así mis letras hallan el verbo que sutura heridas
+de incontables ayeres
+que reivindican la vida
+como hoguera que aviva el silencio,
+que destila aroma…
+[Bridge]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender confession, dry centered, waltz strings sustain, music box returns, seamless transition to the third verse]
+Todo cuento que no se lee
+es llanto que clama por dejarse ver…
+
+Por eso,
+con todo y lágrimas
+que relucen bajo la luz nocturna,
+ni el terror de mis tinieblas
+es tan cálido como tu amor…
+[Verse 3]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, restrained and reflective, dry centered, waltz ensemble at full width, seamless transition to the next verse]
+Doce cuentos
+narran historias
+al compás de un vals,
+con mis letras cinceladas
+que inscriben lo indecible,
+redactadas en las tinieblas
+que alguna vez me envolvieron
+en un lúgubre escritorio,
+y que ahora trazan mi camino…
+[Verse 4]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender and wistful, dry centered, harpsichord and cello soften, waltz feel unhurried, seamless transition to the outro]
+Mi sonrisa,
+tenue, bajo la luz de una luna,
+ríe al guiar mi mano y mis letras
+con cicatrices de ayeres
+y espejos de tinieblas y futuro
+que dan sentido a mi vida,
+pues me dan cuentos que contar…
+[Outro]
+[young male countertenor, pure clean head voice delivery, high register, ethereal delivery, close mic'd, tender and resolved, dry centered, waltz ensemble sustains, music box returns for the close, seamless transition to the ending]
+Estas tristes sombras
+son para ti,
+quien le dio hogar
+a un fantasma olvidado…
+
+Estas tristes sombras
+son para ti,
+quien le dio hogar
+a un fantasma olvidado…
+[Ending]
+[final waltz chord rings out on cello and harpsichord, music box resolves last]
+[Fade Out]
+[polished gradual fade over the sustained final chord, smooth even taper]
